@@ -1,0 +1,1574 @@
+﻿Log file open, 12/05/20 15:32:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BattleTank
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.229751
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Found config from plugin[XGEController] C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14685802
+LogInit: Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Net CL: 14685802
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov  8 2020 07:07:38
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: K:/UE4.25/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.05-07.32.19:367][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.05-07.32.19:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:368][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.05-07.32.19:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.05-07.32.19:378][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.05-07.32.19:379][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.05-07.32.19:379][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.05-07.32.19:379][  0]LogHAL: Display: Platform has ~ 16 GB [17014837248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.05-07.32.19:379][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.05-07.32.19:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.05-07.32.19:380][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.32.19:380][  0]LogInit: Computer: DESKTOP-TLTKENT
+[2020.12.05-07.32.19:380][  0]LogInit: User: PiyushPandey
+[2020.12.05-07.32.19:380][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.05-07.32.19:380][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.05-07.32.19:380][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.05-07.32.19:380][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.05-07.32.19:380][  0]LogMemory: Process Physical Memory: 133.39 MB used, 133.39 MB peak
+[2020.12.05-07.32.19:380][  0]LogMemory: Process Virtual Memory: 112.45 MB used, 112.45 MB peak
+[2020.12.05-07.32.19:380][  0]LogMemory: Physical Memory: 12207.45 MB used,  4019.16 MB free, 16226.61 MB total
+[2020.12.05-07.32.19:380][  0]LogMemory: Virtual Memory: 134214696.00 MB used,  3035.85 MB free, 134217728.00 MB total
+[2020.12.05-07.32.19:416][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.05-07.32.19:438][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.05-07.32.19:439][  0]LogInit: Using OS detected language (en-US).
+[2020.12.05-07.32.19:439][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.05-07.32.19:441][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.05-07.32.19:603][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.05-07.32.19:612][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.05-07.32.19:634][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.05-07.32.19:634][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.05-07.32.19:793][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.05-07.32.19:793][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.05-07.32.19:793][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.05-07.32.19:793][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.05-07.32.19:884][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.12.05-07.32.19:884][  0]LogD3D11RHI:       8031/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.05-07.32.19:897][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.05-07.32.19:897][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.05-07.32.19:900][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.05-07.32.19:900][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.05-07.32.19:900][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.05-07.32.19:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.05-07.32.19:940][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.05-07.32.19:940][  0]LogWindows: EnumDisplayDevices:
+[2020.12.05-07.32.19:940][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.05-07.32.19:940][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.05-07.32.19:940][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.05-07.32.19:941][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.32.19:941][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.32.19:941][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.32.19:941][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.32.19:942][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.05-07.32.19:942][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.12.05-07.32.19:942][  0]LogD3D11RHI:   Driver Version: 431.23 (internal:26.21.14.3123, unified:431.23)
+[2020.12.05-07.32.19:942][  0]LogD3D11RHI:      Driver Date: 6-24-2019
+[2020.12.05-07.32.19:942][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.12.05-07.32.19:998][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.05-07.32.19:998][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.05-07.32.19:998][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.05-07.32.20:012][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.05-07.32.20:013][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.05-07.32.20:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.05-07.32.20:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.05-07.32.20:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.05-07.32.20:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.05-07.32.20:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.05-07.32.20:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.05-07.32.20:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.05-07.32.20:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.05-07.32.20:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.05-07.32.20:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.05-07.32.20:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.05-07.32.20:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.05-07.32.20:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.05-07.32.20:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.05-07.32.20:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.05-07.32.20:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.05-07.32.20:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.05-07.32.20:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.05-07.32.20:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.05-07.32.20:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.05-07.32.20:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.05-07.32.20:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.05-07.32.20:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.05-07.32.20:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.05-07.32.20:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.05-07.32.20:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.05-07.32.20:925][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.05-07.32.20:933][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.05-07.32.20:986][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.05-07.32.20:986][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Intermediate/Shaders/WorkingDirectory/4316/).
+[2020.12.05-07.32.20:986][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Piyush Pandey/AppData/Local/Temp/UnrealShaderWorkingDir/E9F4373B48DDFF066BA6F795992EC76B/'.
+[2020.12.05-07.32.20:986][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.05-07.32.20:986][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.05-07.32.21:671][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.05-07.32.21:732][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.05-07.32.21:765][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.05-07.32.21:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.05-07.32.21:765][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.05-07.32.21:815][  0]LogDerivedDataCache: Speed tests for C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2020.12.05-07.32.21:815][  0]LogDerivedDataCache: Display: Performance to C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=152.90MBs, RandomWriteSpeed=21.70MBs. Assigned SpeedClass 'Local'
+[2020.12.05-07.32.21:815][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.05-07.32.21:815][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.05-07.32.21:815][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.05-07.32.21:858][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.05-07.32.21:858][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.05-07.32.21:900][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.05-07.32.22:147][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.05-07.32.22:147][  0]LogInit: Active device profile: [00000288DA12A000][00000288D983CD80 49] Windows
+[2020.12.05-07.32.22:147][  0]LogInit: Profiles: [00000288DA12A000][00000288D983CD80 49] Windows, [00000288DA0B8B00][00000288BA330F00 49] WindowsNoEditor, [00000288DA128A00][00000288DA851080 49] WindowsServer, [00000288DA0B9F00][00000288DA855200 49] WindowsClient, [00000288DA0C7E00][00000288DA859380 49] IOS, [00000288DA128B00][00000288BA32D4C0 49] iPadAir, [00000288DA0B9E00][00000288DA85D600 49] iPadAir2, [00000288DA065B00][00000288DA865840 49] IPadPro, [00000288DA065C00][00000288DA861880 49] iPadAir3, [00000288DA0B8100][00000288DA86DA00 49] iPadAir4, [00000288DA066000][00000288DA871B80 49] iPadMini2, [00000288DA0BA800][00000288DA875D00 49] iPadMini3, [00000288DA065F00][00000288DA8781C0 49] iPadMini4, [00000288DA0BB500][00000288DA87C340 49] iPadMini5, [00000288DA0C4500][00000288DA884600 49] iPhone6, [00000288DA0C4400][00000288DA880640 49] iPodTouch6, [00000288DA064D00][00000288DA88C900 49] iPhone7, [00000288DA066F00][00000288DA888940 49] iPodTouch7, [00000288DA0C4300][00000288DA890AC0 49] iPhone5S, [00000288DA065200][00000288DA894C40 49] iPhone6Plus, [00000288DA0C5B00][00000288DA898DC0 49] iPhone6S, [00000288DA067600][00000288DA89CF40 49] iPhone6SPlus, [00000288DA0C4200][00000288DA8A10C0 49] iPhone7Plus, [00000288DA065E00][00000288DA8A5240 49] iPhoneSE, [00000288DA0C7900][00000288DA8A93C0 49] iPhone8, [00000288DA067B00][00000288DA8AD540 49] iPhone8Plus, [00000288DA0C6300][00000288DA869680 49] iPhoneX, [00000288DA066A00][00000288DA8B17C0 49] iPhoneXS, [00000288DA0C4700][00000288DA8B5900 49] iPhoneXSMax, [00000288DA065000][00000288DA8BDA80 49] iPhoneXR, [00000288DA0C6400][00000288DA8C1C00 49] iPhone11, [00000288DA064800][00000288DA8C40C0 49] iPhone11Pro, [00000288DA0C7800][00000288DA8C8240 49] iPhone11ProMax, [00000288DA067C00][00000288DA8CC3C0 49] iPhoneSE2, [00000288DA0C5600][00000288DA8D0540 49] iPhone12Mini, [00000288DA064C00][00000288DA8D46C0 49] iPhone12, [00000288DA0C6500][00000288DA8D8840 49] iPhone12Pro, [00000288DA067400][00000288DA8DC9C0 49] iPhone12ProMax, [00000288DA0C6600][00000288DA8E0B40 49] iPadPro105, [00000288DA128200][00000288DA8E4CC0 49] iPadPro129, [00000288DA0C4900][00000288DA8E8E40 49] iPadPro97, [00000288DA129700][00000288DA8ECFC0 49] iPadPro2_129, [00000288DA0C4B00][00000288DA8F1140 49] iPad5, [00000288DA128500][00000288DA8F52C0 49] iPad6, [00000288DA0C4F00][00000288DA8F9440 49] iPad7, [00000288DA129400][00000288DA8FD5C0 49] iPad8, [00000288DA0C6A00][00000288DA8B9700 49] iPadPro11, [00000288DA129A00][00000288DA901840 49] iPadPro2_11, [00000288DA0C6900][00000288DA905980 49] iPadPro3_129, [00000288DA129900][00000288DA909AC0 49] iPadPro4_129, [00000288DA0C7200][00000288DA911C40 49] AppleTV, [00000288DA129500][00000288DA914100 49] AppleTV4K, [00000288DA0C4E00][00000288DA918280 49] TVOS, [00000288DA128300][00000288DA91C400 49] Mac, [00000288DA0C7B00][00000288DA920580 49] MacClient, [00000288DA129E00][00000288DA924700 49] MacNoEditor, [00000288DA0C4600][00000288DA928880 49] MacServer, [00000288DA128F00][00000288DA92CA00 49] Linux, [00000288DA0C6E00][00000288DA930B80 49] LinuxNoEditor, [00000288DA128E00][00000288DA934D00 49] LinuxAArch64NoEditor, [00000288DA0C4100][00000288DA938E80 49] LinuxClient, [00000288DA12A400][00000288DA93D000 49] LinuxAArch64Client, [00000288DA0C6000][00000288DA941180 49] LinuxServer, [00000288DA129D00][00000288DA945300 49] LinuxAArch64Server, [00000288DA0C6200][00000288DA949480 49] Android, [00000288DA128400][00000288DA94D600 49] Android_Low, [00000288DA0C5300][00000288DA90D740 49] Android_Mid, [00000288DA129200][00000288DA951880 49] Android_High, [00000288DA0C5F00][00000288DA9559C0 49] Android_Default, [00000288DA128800][00000288DA959B00 49] Android_Adreno4xx, [00000288DA0BBD00][00000288DA961C80 49] Android_Adreno5xx_Low, [00000288DA065900][00000288DA964140 49] Android_Adreno5xx, [00000288DA0B8900][00000288DA9682C0 49] Android_Adreno6xx, [00000288DA065700][00000288DA96C440 49] Android_Adreno6xx_Vulkan, [00000288DA0B9D00][00000288DA9705C0 49] Android_Mali_T6xx, [00000288DA065D00][00000288DA974740 49] Android_Mali_T7xx, [00000288DA0B8C00][00000288DA9788C0 49] Android_Mali_T8xx, [00000288DA064A00][00000288DA97CA40 49] Android_Mali_G71, [00000288DA0BAD00][00000288DA980BC0 49] Android_Mali_G72, [00000288DA065500][00000288DA984D40 49] Android_Mali_G72_Vulkan, [00000288DA0B9C00][00000288DA988EC0 49] Android_Mali_G76, [00000288DA064300][00000288DA98D040 49] Android_Mali_G76_Vulkan, [00000288DA0B8E00][00000288DA9911C0 49] Android_Mali_G77, [00000288DA067E00][00000288DA995340 49] Android_Mali_G77_Vulkan, [00000288DA0BB400][00000288DA9994C0 49] Android_Vulkan_SM5, [00000288DA066300][00000288DA99D640 49] Android_PowerVR_G6xxx, [00000288DA0B9800][00000288DA9A17C0 49] Android_PowerVR_GT7xxx, [00000288DA066900][00000288DA95D900 49] Android_PowerVR_GE8xxx, [00000288DA0BAF00][00000288DA9A5A40 49] Android_PowerVR_GM9xxx, [00000288DA064E00][00000288DA9A9B80 49] Android_PowerVR_GM9xxx_Vulkan, [00000288DA0BB300][00000288DA9B1D00 49] Android_TegraK1, [00000288DA066C00][00000288DA9B41C0 49] Android_Unknown_Vulkan, [00000288DA0B9B00][00000288DA9B8340 49] Lumin, [00000288DA065600][00000288DA9BC4C0 49] Lumin_Desktop, [00000288DA0B8500][00000288DA9C0640 49] HoloLens, 
+[2020.12.05-07.32.22:532][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.05-07.32.22:532][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.05-07.32.22:532][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.05-07.32.22:532][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.05-07.32.22:532][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.05-07.32.22:574][  0]LogNetVersion: BattleTank 1.0.0, NetCL: 14685802, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4204264390)
+[2020.12.05-07.32.28:234][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.05-07.32.28:295][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.061067 seconds
+[2020.12.05-07.32.28:300][  0]LogUObjectArray: 16822 objects as part of root set at end of initial load.
+[2020.12.05-07.32.28:300][  0]LogUObjectAllocator: 4207504 out of 0 bytes used by permanent object pool.
+[2020.12.05-07.32.28:300][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.05-07.32.32:475][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.05-07.32.32:543][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.05-07.32.33:451][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.33:451][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.33:474][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.33:554][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.33:635][  0]LogUProjectInfo: Found projects:
+[2020.12.05-07.32.33:669][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.35:806][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.05-07.32.36:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.05-07.32.36:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.05-07.32.37:492][  0]LogCollectionManager: Loaded 0 collections in 0.000799 seconds
+[2020.12.05-07.32.37:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Collections/' took 0.00s
+[2020.12.05-07.32.37:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Developers/PiyushPandey/Collections/' took 0.00s
+[2020.12.05-07.32.37:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Collections/' took 0.00s
+[2020.12.05-07.32.37:601][  0]LogOcInput: OculusInput pre-init called
+[2020.12.05-07.32.37:661][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.05-07.32.37:661][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.05-07.32.37:879][  0]LogEngine: Initializing Engine...
+[2020.12.05-07.32.37:880][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.05-07.32.37:880][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.05-07.32.37:880][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.05-07.32.38:022][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.05-07.32.38:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.05-07.32.38:064][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.05-07.32.38:086][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.05-07.32.38:086][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-07.32.38:086][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-07.32.38:086][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-07.32.38:086][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-07.32.38:087][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-07.32.38:227][  0]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-07.32.38:393][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.05-07.32.38:399][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-07.32.38:400][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-07.32.38:401][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-07.32.38:402][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-07.32.38:402][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.05-07.32.38:402][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.05-07.32.38:403][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.05-07.32.38:403][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.05-07.32.38:403][  0]LogInit: FAudioDevice initialized.
+[2020.12.05-07.32.38:404][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.05-07.32.38:404][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.05-07.32.38:477][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.05-07.32.38:481][  0]LogInit: Texture streaming: Enabled
+[2020.12.05-07.32.38:579][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14685802+++UE4+Release-4.26
+[2020.12.05-07.32.38:633][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.05-07.32.38:633][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.05-07.32.38:645][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.05-07.32.38:788][  0]LogInit: Transaction tracking system initialized
+[2020.12.05-07.32.39:061][  0]BlueprintLog: New page: Editor Load
+[2020.12.05-07.32.39:767][  0]LocalizationService: Localization service is disabled
+[2020.12.05-07.32.40:069][  0]TimingProfiler: Initialize
+[2020.12.05-07.32.40:069][  0]TimingProfiler: OnSessionChanged
+[2020.12.05-07.32.40:069][  0]LoadingProfiler: Initialize
+[2020.12.05-07.32.40:069][  0]LoadingProfiler: OnSessionChanged
+[2020.12.05-07.32.40:069][  0]NetworkingProfiler: Initialize
+[2020.12.05-07.32.40:069][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.05-07.32.40:069][  0]MemoryProfiler: Initialize
+[2020.12.05-07.32.40:069][  0]MemoryProfiler: OnSessionChanged
+[2020.12.05-07.32.40:584][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.05-07.32.40:584][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.05-07.32.41:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/' took 0.00s
+[2020.12.05-07.32.42:249][  0]SourceControl: Source control is disabled
+[2020.12.05-07.32.42:249][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.558
+[2020.12.05-07.32.42:250][  0]Cmd: MAP LOAD FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.05-07.32.42:250][  0]LightingResults: New page: Lighting Build
+[2020.12.05-07.32.42:265][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.32.42:265][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-07.32.42:265][  0]MapCheck: New page: Map Check
+[2020.12.05-07.32.42:265][  0]LightingResults: New page: Lighting Build
+[2020.12.05-07.32.42:273][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.05-07.32.42:289][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2020.12.05-07.32.42:289][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.05-07.32.42:290][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.05-07.32.42:295][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.12.05-07.32.42:295][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.05-07.32.42:296][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2020.12.05-07.32.42:296][  0]LogFileHelpers: Loading map 'MainMenu' took 0.047
+[2020.12.05-07.32.42:298][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.607
+[2020.12.05-07.32.42:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.32.42:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.32.42:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.32.42:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.32.42:524][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0127 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.32.42:597][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.32.42:668][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.32.42:669][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:669][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.32.42:669][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.12.05-07.32.42:672][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.05-07.32.42:672][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:672][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.05-07.32.42:672][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.05-07.32.42:680][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.05-07.32.42:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.05-07.32.42:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.05-07.32.42:723][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.32.42:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.32.42:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.05-07.32.42:753][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.05-07.32.42:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.05-07.32.42:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2020.12.05-07.32.42:787][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.05-07.32.42:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.05-07.32.42:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2020.12.05-07.32.42:804][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.05-07.32.42:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.05-07.32.42:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2020.12.05-07.32.42:834][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.05-07.32.42:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.05-07.32.42:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2020.12.05-07.32.42:888][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.32.42:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.32.42:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2020.12.05-07.32.42:892][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.05-07.32.42:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.05-07.32.42:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2020.12.05-07.32.42:951][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.05-07.32.42:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.05-07.32.42:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2020.12.05-07.32.42:989][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.32.42:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.32.42:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2020.12.05-07.32.42:999][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.32.42:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.42:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.32.42:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2020.12.05-07.32.43:001][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.32.43:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.32.43:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2020.12.05-07.32.43:006][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.05-07.32.43:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.05-07.32.43:006][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2020.12.05-07.32.43:010][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.32.43:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.32.43:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2020.12.05-07.32.43:013][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.05-07.32.43:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.05-07.32.43:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2020.12.05-07.32.43:031][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.32.43:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.32.43:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2020.12.05-07.32.43:055][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.32.43:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.32.43:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2020.12.05-07.32.43:056][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.32.43:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.32.43:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2020.12.05-07.32.43:066][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.32.43:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.32.43:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2020.12.05-07.32.43:096][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.32.43:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.32.43:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2020.12.05-07.32.43:129][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.05-07.32.43:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.05-07.32.43:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2020.12.05-07.32.43:168][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.32.43:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.32.43:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2020.12.05-07.32.43:181][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.32.43:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.32.43:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2020.12.05-07.32.43:211][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.05-07.32.43:211][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.32.43:211][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.05-07.32.43:211][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2020.12.05-07.32.44:292][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.32.45:092][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.05-07.32.45:185][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.05-07.32.45:192][  0]LogSlate: Took 0.000739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.05-07.32.45:214][  0]LogSlate: Took 0.015804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.05-07.32.45:426][  0]LogRenderer: Reallocating scene render targets to support 932x492 Format 10 NumSamples 1 (Frame:1).
+[2020.12.05-07.32.45:556][  0]LogSlate: Took 0.038341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.05-07.32.45:650][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.32.45:651][  0]LogLoad: (Engine Initialization) Total time: 26.96 seconds
+[2020.12.05-07.32.45:651][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.05-07.32.45:651][  0]LogInit: First time updating LLM stats...
+[2020.12.05-07.32.45:799][  0]LogAssetRegistry: Asset discovery search completed in 23.8991 seconds
+[2020.12.05-07.32.45:800][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.05-07.32.45:844][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.05-07.32.46:698][ 54]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.05-07.34.07:400][619]LogHotReload: New module detected: UE4Editor-BattleTank-0098.dll
+[2020.12.05-07.34.08:078][622]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.05-07.34.08:116][622]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0002 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.34.08:117][622]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.34.08:152][622]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.34.08:156][622]Display: HotReload took  0.1s.
+[2020.12.05-07.34.14:528][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.34.14:678][128]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2020.12.05-07.34.15:563][128]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.05-07.34.15:581][129]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.05-07.35.10:957][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.35.11:119][765]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP8BD237E544240A7B86CD0C96B7436E97.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.35.11:133][765]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.35.11:134][765]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.35.11:702][827]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.35.11:740][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.05-07.35.13:646][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.35.13:664][977]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP0710CC1C4EDE97E6AB87A2B419D3BB0B.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.35.13:674][977]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.35.13:674][977]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.35.14:334][ 49]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.35.14:376][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.05-07.35.15:061][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.35.15:078][117]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP1D2C27DE48C26BE889D73C84921019E6.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.35.15:090][117]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.35.15:091][117]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.35.15:931][205]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.35.15:974][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.12.05-07.35.17:016][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.35.17:033][310]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP237553784987509E50C2FE8879F95EB0.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.35.17:047][310]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.35.17:047][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.36.18:833][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.36.18:852][802]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPE42F9D804DC8DD63B4E0E187F131ED5C.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.36.18:863][802]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.36.18:863][802]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.36.19:454][864]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.36.19:520][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.12.05-07.36.20:476][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.36.20:494][958]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP906F668041269B01D3FDD692416F7196.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.36.20:505][958]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.36.20:505][958]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.37.12:954][607]LogHotReload: New module detected: UE4Editor-BattleTank-0099.dll
+[2020.12.05-07.37.13:637][610]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.05-07.37.13:681][610]LogClass: Could not find existing class TankBarrel in package /Script/BattleTank for HotReload, assuming new class
+[2020.12.05-07.37.13:689][610]LogHotReload: Re-instancing TankBarrel after hot-reload.
+[2020.12.05-07.37.13:756][610]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0002 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.37.13:759][610]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.37.13:856][610]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.37.13:859][610]Display: HotReload took  0.2s.
+[2020.12.05-07.37.27:268][580]LogRenderer: Reallocating scene render targets to support 1072x900 Format 10 NumSamples 1 (Frame:1).
+[2020.12.05-07.37.46:363][545]LogActorComponent: ReregisterComponent: (/Game/Blueprints/Tank_BP.Tank_BP_C:Barrel_GEN_VARIABLE) Not currently registered. Aborting.
+[2020.12.05-07.37.48:410][755]LogActorComponent: ReregisterComponent: (/Game/Blueprints/Tank_BP.Tank_BP_C:Barrel_GEN_VARIABLE) Not currently registered. Aborting.
+[2020.12.05-07.37.52:463][151]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.05-07.37.52:463][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.52:463][151]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.52:465][151]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.54:117][316]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2020.12.05-07.37.54:117][316]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.54:117][316]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.12.05-07.37.54:120][316]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.12.05-07.37.55:531][463]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.05-07.37.55:531][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel' 
+[2020.12.05-07.37.55:533][463]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.05-07.37.55:535][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel' 
+[2020.12.05-07.37.55:535][463]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.05-07.37.55:535][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.Tank_BP_C_0.Barrel' 
+[2020.12.05-07.38.30:072][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.38.30:090][  7]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP2D4D6B1949C9921C71D6338E1E51440A.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.38.30:103][  7]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.38.30:103][  7]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.38.30:799][ 82]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.38.30:810][ 82]LogBlueprint: Error: [AssetLog] C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Content\Blueprints\Tank_BP.uasset: [Compiler] Barrel to Set  of type Tank Barrel Object Reference doesn't match the property BarrelToSet of type HOTRELOADED Tank Barrel 0 Object Reference
+[2020.12.05-07.38.31:017][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.12.05-07.38.31:088][ 82]LogSlate: Took 0.005425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.05-07.39.00:029][229]LogEditorTransaction: Undo Set Node Enabled State
+[2020.12.05-07.39.30:831][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.39.30:848][345]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP2F661ADF4A96DD234C1C2D956E84C33E.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.39.30:859][345]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.39.30:859][345]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.39.31:357][399]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.39.31:361][399]LogBlueprint: Error: [AssetLog] C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Content\Blueprints\Tank_BP.uasset: [Compiler] Barrel to Set  of type Tank Barrel Object Reference doesn't match the property BarrelToSet of type HOTRELOADED Tank Barrel 0 Object Reference
+[2020.12.05-07.39.31:523][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.05-07.39.43:322][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.39.43:339][645]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPEBB32E014B1838AB413D7086C2BC9939.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.39.43:350][645]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.39.43:350][645]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.39.43:958][714]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.39.43:965][714]LogBlueprint: Error: [AssetLog] C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Content\Blueprints\Tank_BP.uasset: [Compiler] Barrel to Set  of type Tank Barrel Object Reference doesn't match the property BarrelToSet of type HOTRELOADED Tank Barrel 0 Object Reference
+[2020.12.05-07.39.44:005][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.12.05-07.42.17:965][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.42.17:982][388]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP3A7476ED4C240DDAA4BB71A68CAA6BED.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.42.17:996][388]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.42.17:996][388]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.42.18:591][455]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.42.18:636][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.12.05-07.45.05:459][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.12.05-07.45.05:461][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.029
+[2020.12.05-07.45.05:461][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Tank_BP] ([2] browsable assets)...
+[2020.12.05-07.45.05:477][341]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Tank_BP.Tank_BP]
+[2020.12.05-07.45.05:491][341]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Tank_BP.Tank_BP]
+[2020.12.05-07.45.05:491][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tank_BP]
+[2020.12.05-07.45.05:509][341]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP_Auto1775926CF4D4DDCA29A1B829D32C77C3A.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Autosaves/Game/Blueprints/Tank_BP_Auto1.uasset'
+[2020.12.05-07.45.05:510][341]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.12.05-07.45.41:408][153]LogHotReload: New module detected: UE4Editor-BattleTank-0100.dll
+[2020.12.05-07.45.42:425][157]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.05-07.45.42:470][157]LogClass: Could not find existing class TankBarrel in package /Script/BattleTank for HotReload, assuming new class
+[2020.12.05-07.45.42:479][157]LogHotReload: Re-instancing TankBarrel after hot-reload.
+[2020.12.05-07.45.42:501][157]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.45.42:506][157]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.45.42:604][157]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.45.42:607][157]Display: HotReload took  0.2s.
+[2020.12.05-07.45.49:551][487]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.45.49:634][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.12.05-07.45.50:411][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.45.50:428][569]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPB17F5CFD4FDDC88FB21EFC906753F374.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.45.50:439][569]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.45.50:439][569]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.45.52:954][847]Candidate modules for hot reload:
+[2020.12.05-07.45.52:954][847]  BattleTank
+[2020.12.05-07.45.52:954][847]Launching UnrealBuildTool... [K:/UE4.25/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleTank,8978 BattleTankEditor Win64 Development -Project="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject" "C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject"  -IgnoreJunk]
+[2020.12.05-07.45.52:960][847]Warning: Starting HotReload took  0.0s.
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: New page: Compilation - Dec 5, 2020, 11:45:55 PM
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle).
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Building BattleTankEditor...
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog:   [1/3] UE4Editor-BattleTank-8978.lib
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-8978.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-8978.exp
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog:   [2/3] UE4Editor-BattleTank-8978.dll
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-8978.suppressed.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-8978.suppressed.exp
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog:   [3/3] BattleTankEditor.target
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Total time in Parallel executor: 1.50 seconds
+[2020.12.05-07.45.55:472][ 57]CompilerResultsLog: Total execution time: 2.30 seconds
+[2020.12.05-07.45.55:472][ 57]LogMainFrame: MainFrame: Module compiling took 2.526 seconds
+[2020.12.05-07.45.55:509][ 57]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.45.55:514][ 57]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.45.55:629][ 57]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.45.55:629][ 57]Display: HotReload took  2.7s.
+[2020.12.05-07.46.39:337][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.46.39:355][676]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP7D0082A548F9825EB36BC187EE0A8166.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.46.39:370][676]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.46.39:370][676]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.46.39:904][739]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.46.40:044][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.12.05-07.46.49:523][797]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.46.49:580][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.12.05-07.46.50:106][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.46.50:124][850]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPA64A7E7D433023A42081818935954A01.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.46.50:137][850]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.46.50:137][850]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.46.51:825][ 35]Candidate modules for hot reload:
+[2020.12.05-07.46.51:825][ 35]  BattleTank
+[2020.12.05-07.46.51:825][ 35]Launching UnrealBuildTool... [K:/UE4.25/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleTank,9838 BattleTankEditor Win64 Development -Project="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject" "C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject"  -IgnoreJunk]
+[2020.12.05-07.46.51:827][ 35]Warning: Starting HotReload took  0.0s.
+[2020.12.05-07.46.54:207][255]CompilerResultsLog: New page: Compilation - Dec 5, 2020, 11:46:54 PM
+[2020.12.05-07.46.54:207][255]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle).
+[2020.12.05-07.46.54:207][255]CompilerResultsLog: Building BattleTankEditor...
+[2020.12.05-07.46.54:208][255]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.05-07.46.54:208][255]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.05-07.46.54:208][255]CompilerResultsLog:   [1/3] UE4Editor-BattleTank-9838.lib
+[2020.12.05-07.46.54:208][255]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-9838.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-9838.exp
+[2020.12.05-07.46.54:208][255]CompilerResultsLog:   [2/3] UE4Editor-BattleTank-9838.dll
+[2020.12.05-07.46.54:208][255]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-9838.suppressed.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-9838.suppressed.exp
+[2020.12.05-07.46.54:208][255]CompilerResultsLog:   [3/3] BattleTankEditor.target
+[2020.12.05-07.46.54:208][255]CompilerResultsLog: Total time in Parallel executor: 1.42 seconds
+[2020.12.05-07.46.54:208][255]CompilerResultsLog: Total execution time: 2.26 seconds
+[2020.12.05-07.46.54:208][255]LogMainFrame: MainFrame: Module compiling took 2.400 seconds
+[2020.12.05-07.46.54:255][255]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0002 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.46.54:258][255]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.46.54:354][255]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.46.54:354][255]Display: HotReload took  2.5s.
+[2020.12.05-07.47.37:065][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.47.37:082][906]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP37147235467273555D931AA8A005F6D9.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.47.37:095][906]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.47.37:096][906]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.47.37:515][954]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.47.37:596][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.12.05-07.47.38:462][ 48]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.47.38:462][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-07.50.49:355][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.51.24:256][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.51.24:273][763]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP47CE5F5A45A355F9240C03941DAC8B2F.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.51.24:286][763]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.51.24:286][763]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.52.26:528][ 53]LogHotReload: New module detected: UE4Editor-BattleTank-0103.dll
+[2020.12.05-07.52.27:214][ 56]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.05-07.52.27:259][ 56]LogClass: Could not find existing class TankBarrel in package /Script/BattleTank for HotReload, assuming new class
+[2020.12.05-07.52.27:269][ 56]LogHotReload: Re-instancing TankBarrel after hot-reload.
+[2020.12.05-07.52.27:307][ 56]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0002 seconds. Added 6 classes and 3 folders.
+[2020.12.05-07.52.27:311][ 56]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.05-07.52.27:442][ 56]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.52.27:445][ 56]Display: HotReload took  0.2s.
+[2020.12.05-07.52.32:929][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.52.32:944][369]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP2F4ED05B4414034A4F94A09C7820E286.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.52.32:956][369]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.52.32:956][369]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.52.33:367][417]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.52.34:253][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.12.05-07.53.43:985][646]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.05-07.54.58:346][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.54.58:363][758]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP4BBBBB0B4FFC541F329FF3936E003D7A.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.54.58:375][758]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.54.58:375][758]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.54.59:135][841]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.54.59:213][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.12.05-07.55.21:076][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.55.21:095][ 18]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPDBC472194063D7A3D89F778AE0F0B335.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.55.21:108][ 18]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.55.21:108][ 18]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.55.21:619][ 77]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.55.21:671][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.05-07.55.29:544][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.05-07.55.29:561][929]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPFBDF3B0040E14C65AF02D7B94387FA63.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.05-07.55.29:574][929]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.05-07.55.29:574][929]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.55.29:874][964]BlueprintLog: New page: Compile Tank_BP
+[2020.12.05-07.55.29:919][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.05-07.55.33:076][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.05-07.55.33:109][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.12.05-07.55.33:142][299]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/MainMenu4746D8144DE438975336E3B492FD573D.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap'
+[2020.12.05-07.55.33:173][299]AssetCheck: New page: Asset Save: MainMenu
+[2020.12.05-07.55.33:173][299]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.12.05-07.55.34:968][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.12.05-07.55.35:035][492]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.55.35:035][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-07.55.35:133][492]LogSlate: Window 'BattleTank - Unreal Editor' being destroyed
+[2020.12.05-07.55.35:540][493]Cmd: QUIT_EDITOR
+[2020.12.05-07.55.35:540][493]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.05-07.55.35:578][493]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.05-07.55.35:646][493]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2020.12.05-07.55.35:646][493]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2020.12.05-07.55.35:659][493]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2020.12.05-07.55.35:714][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.05-07.55.35:716][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.05-07.55.35:773][493]LogAudio: Display: Audio Device Manager Shutdown
+[2020.12.05-07.55.35:784][493]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.05-07.55.35:788][493]LogExit: Preparing to exit.
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA12A000] Windows
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA12A100] Default__DeviceProfile
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8B00] WindowsNoEditor
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128A00] WindowsServer
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9F00] WindowsClient
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C7E00] IOS
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128B00] iPadAir
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9E00] iPadAir2
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065B00] IPadPro
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065C00] iPadAir3
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8100] iPadAir4
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066000] iPadMini2
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BA800] iPadMini3
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065F00] iPadMini4
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BB500] iPadMini5
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4500] iPhone6
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4400] iPodTouch6
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064D00] iPhone7
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066F00] iPodTouch7
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4300] iPhone5S
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065200] iPhone6Plus
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C5B00] iPhone6S
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA067600] iPhone6SPlus
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4200] iPhone7Plus
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065E00] iPhoneSE
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C7900] iPhone8
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA067B00] iPhone8Plus
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6300] iPhoneX
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066A00] iPhoneXS
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4700] iPhoneXSMax
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065000] iPhoneXR
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6400] iPhone11
+[2020.12.05-07.55.36:452][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064800] iPhone11Pro
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C7800] iPhone11ProMax
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA067C00] iPhoneSE2
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C5600] iPhone12Mini
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064C00] iPhone12
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6500] iPhone12Pro
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA067400] iPhone12ProMax
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6600] iPadPro105
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128200] iPadPro129
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4900] iPadPro97
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129700] iPadPro2_129
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4B00] iPad5
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128500] iPad6
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4F00] iPad7
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129400] iPad8
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6A00] iPadPro11
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129A00] iPadPro2_11
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6900] iPadPro3_129
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129900] iPadPro4_129
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C7200] AppleTV
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129500] AppleTV4K
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4E00] TVOS
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128300] Mac
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C7B00] MacClient
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129E00] MacNoEditor
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4600] MacServer
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128F00] Linux
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6E00] LinuxNoEditor
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128E00] LinuxAArch64NoEditor
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C4100] LinuxClient
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA12A400] LinuxAArch64Client
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6000] LinuxServer
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129D00] LinuxAArch64Server
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C6200] Android
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128400] Android_Low
+[2020.12.05-07.55.36:453][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C5300] Android_Mid
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA129200] Android_High
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0C5F00] Android_Default
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA128800] Android_Adreno4xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BBD00] Android_Adreno5xx_Low
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065900] Android_Adreno5xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8900] Android_Adreno6xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065700] Android_Adreno6xx_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9D00] Android_Mali_T6xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065D00] Android_Mali_T7xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8C00] Android_Mali_T8xx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064A00] Android_Mali_G71
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BAD00] Android_Mali_G72
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065500] Android_Mali_G72_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9C00] Android_Mali_G76
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064300] Android_Mali_G76_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8E00] Android_Mali_G77
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA067E00] Android_Mali_G77_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BB400] Android_Vulkan_SM5
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066300] Android_PowerVR_G6xxx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9800] Android_PowerVR_GT7xxx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066900] Android_PowerVR_GE8xxx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BAF00] Android_PowerVR_GM9xxx
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA064E00] Android_PowerVR_GM9xxx_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0BB300] Android_TegraK1
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA066C00] Android_Unknown_Vulkan
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B9B00] Lumin
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA065600] Lumin_Desktop
+[2020.12.05-07.55.36:454][493]LogDeviceProfile: Device profile begin destroy: [00000288DA0B8500] HoloLens
+[2020.12.05-07.55.36:943][493]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.55.36:953][493]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.55.36:961][493]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.55.37:198][493]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.05-07.55.37:398][493]LogExit: Editor shut down
+[2020.12.05-07.55.37:398][493]LogExit: Transaction tracking system shut down
+[2020.12.05-07.55.39:497][493]LogExit: Object subsystem successfully closed.
+[2020.12.05-07.55.39:679][493]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.05-07.55.40:911][493]LogModuleManager: Shutting down and abandoning module BattleTank (838)
+[2020.12.05-07.55.40:911][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (833)
+[2020.12.05-07.55.40:912][493]LogModuleManager: Shutting down and abandoning module BlueprintGraph (831)
+[2020.12.05-07.55.40:919][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (828)
+[2020.12.05-07.55.40:920][493]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (826)
+[2020.12.05-07.55.40:920][493]LogModuleManager: Shutting down and abandoning module AddContentDialog (824)
+[2020.12.05-07.55.40:932][493]LogModuleManager: Shutting down and abandoning module WidgetCarousel (823)
+[2020.12.05-07.55.40:932][493]LogModuleManager: Shutting down and abandoning module EditorWidgets (820)
+[2020.12.05-07.55.40:932][493]LogModuleManager: Shutting down and abandoning module SceneOutliner (818)
+[2020.12.05-07.55.40:932][493]LogModuleManager: Shutting down and abandoning module StatsViewer (816)
+[2020.12.05-07.55.40:945][493]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (814)
+[2020.12.05-07.55.40:946][493]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (812)
+[2020.12.05-07.55.40:953][493]LogModuleManager: Shutting down and abandoning module AutomationWorker (810)
+[2020.12.05-07.55.40:953][493]LogModuleManager: Shutting down and abandoning module SteamVREditor (808)
+[2020.12.05-07.55.40:953][493]LogModuleManager: Shutting down and abandoning module OculusMR (806)
+[2020.12.05-07.55.40:953][493]LogModuleManager: Shutting down and abandoning module GooglePADEditor (804)
+[2020.12.05-07.55.40:953][493]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (802)
+[2020.12.05-07.55.40:968][493]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (800)
+[2020.12.05-07.55.41:000][493]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (798)
+[2020.12.05-07.55.41:040][493]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (796)
+[2020.12.05-07.55.41:055][493]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (794)
+[2020.12.05-07.55.41:065][493]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (792)
+[2020.12.05-07.55.41:065][493]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (790)
+[2020.12.05-07.55.41:065][493]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (788)
+[2020.12.05-07.55.41:066][493]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (786)
+[2020.12.05-07.55.41:066][493]LogModuleManager: Shutting down and abandoning module WebMMedia (784)
+[2020.12.05-07.55.41:067][493]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (782)
+[2020.12.05-07.55.41:067][493]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (780)
+[2020.12.05-07.55.41:067][493]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (778)
+[2020.12.05-07.55.41:067][493]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (776)
+[2020.12.05-07.55.41:077][493]LogModuleManager: Shutting down and abandoning module SequenceRecorder (775)
+[2020.12.05-07.55.41:081][493]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (770)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (768)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (766)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (764)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (762)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (760)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (758)
+[2020.12.05-07.55.41:109][493]LogModuleManager: Shutting down and abandoning module PlanarCut (756)
+[2020.12.05-07.55.41:119][493]LogModuleManager: Shutting down and abandoning module CharacterAI (754)
+[2020.12.05-07.55.41:119][493]LogModuleManager: Shutting down and abandoning module TextureAlignMode (752)
+[2020.12.05-07.55.41:119][493]LogModuleManager: Shutting down and abandoning module BspMode (750)
+[2020.12.05-07.55.41:120][493]LogModuleManager: Shutting down and abandoning module GeometryMode (748)
+[2020.12.05-07.55.41:129][493]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (746)
+[2020.12.05-07.55.41:141][493]LogModuleManager: Shutting down and abandoning module SmartSnapping (744)
+[2020.12.05-07.55.41:141][493]LogModuleManager: Shutting down and abandoning module SessionServices (742)
+[2020.12.05-07.55.41:141][493]LogModuleManager: Shutting down and abandoning module MeshPaint (740)
+[2020.12.05-07.55.41:154][493]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (738)
+[2020.12.05-07.55.41:161][493]LogModuleManager: Shutting down and abandoning module FoliageEdit (736)
+[2020.12.05-07.55.41:172][493]LogModuleManager: Shutting down and abandoning module LandscapeEditor (734)
+[2020.12.05-07.55.41:196][493]LogModuleManager: Shutting down and abandoning module MeshPaintMode (732)
+[2020.12.05-07.55.41:196][493]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (730)
+[2020.12.05-07.55.41:196][493]LogModuleManager: Shutting down and abandoning module ActorPickerMode (728)
+[2020.12.05-07.55.41:196][493]LogModuleManager: Shutting down and abandoning module PlacementMode (726)
+[2020.12.05-07.55.41:197][493]LogModuleManager: Shutting down and abandoning module ViewportSnapping (724)
+[2020.12.05-07.55.41:197][493]LogModuleManager: Shutting down and abandoning module ViewportInteraction (722)
+[2020.12.05-07.55.41:197][493]LogModuleManager: Shutting down and abandoning module ClothPainter (720)
+[2020.12.05-07.55.41:220][493]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (719)
+[2020.12.05-07.55.41:223][493]LogModuleManager: Shutting down and abandoning module LogVisualizer (716)
+[2020.12.05-07.55.41:250][493]LogModuleManager: Shutting down and abandoning module IntroTutorials (714)
+[2020.12.05-07.55.41:264][493]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (713)
+[2020.12.05-07.55.41:270][493]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (710)
+[2020.12.05-07.55.41:270][493]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (708)
+[2020.12.05-07.55.41:270][493]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (706)
+[2020.12.05-07.55.41:270][493]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (705)
+[2020.12.05-07.55.42:000][493]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (702)
+[2020.12.05-07.55.42:000][493]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (700)
+[2020.12.05-07.55.42:001][493]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (698)
+[2020.12.05-07.55.42:001][493]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (696)
+[2020.12.05-07.55.42:001][493]LogModuleManager: Shutting down and abandoning module TraceInsights (694)
+[2020.12.05-07.55.42:244][493]MemoryProfiler: Shutdown
+[2020.12.05-07.55.42:244][493]NetworkingProfiler: Shutdown
+[2020.12.05-07.55.42:244][493]LoadingProfiler: Shutdown
+[2020.12.05-07.55.42:336][493]TimingProfiler: Shutdown
+[2020.12.05-07.55.42:461][493]LogModuleManager: Shutting down and abandoning module TraceServices (693)
+[2020.12.05-07.55.42:560][493]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (690)
+[2020.12.05-07.55.42:560][493]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (688)
+[2020.12.05-07.55.42:560][493]LogModuleManager: Shutting down and abandoning module InputBindingEditor (686)
+[2020.12.05-07.55.42:627][493]LogModuleManager: Shutting down and abandoning module MergeActors (684)
+[2020.12.05-07.55.42:719][493]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (682)
+[2020.12.05-07.55.42:743][493]LogModuleManager: Shutting down and abandoning module LocalizationService (681)
+[2020.12.05-07.55.42:748][493]LogModuleManager: Shutting down and abandoning module HardwareTargeting (678)
+[2020.12.05-07.55.42:748][493]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (676)
+[2020.12.05-07.55.42:759][493]LogModuleManager: Shutting down and abandoning module UndoHistory (674)
+[2020.12.05-07.55.42:801][493]LogModuleManager: Shutting down and abandoning module XmlParser (672)
+[2020.12.05-07.55.42:815][493]LogModuleManager: Shutting down and abandoning module Blutility (670)
+[2020.12.05-07.55.42:815][493]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (668)
+[2020.12.05-07.55.42:815][493]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (667)
+[2020.12.05-07.55.42:815][493]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (664)
+[2020.12.05-07.55.42:815][493]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (663)
+[2020.12.05-07.55.42:921][493]LogModuleManager: Shutting down and abandoning module SettingsEditor (660)
+[2020.12.05-07.55.42:921][493]LogModuleManager: Shutting down and abandoning module ProjectLauncher (658)
+[2020.12.05-07.55.42:936][493]LogModuleManager: Shutting down and abandoning module SessionFrontend (656)
+[2020.12.05-07.55.43:008][493]LogModuleManager: Shutting down and abandoning module ProfilerClient (654)
+[2020.12.05-07.55.43:021][493]LogModuleManager: Shutting down and abandoning module DeviceManager (652)
+[2020.12.05-07.55.43:033][493]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (651)
+[2020.12.05-07.55.43:077][493]LogModuleManager: Shutting down and abandoning module AutomationController (648)
+[2020.12.05-07.55.43:196][493]LogModuleManager: Shutting down and abandoning module AutomationWindow (646)
+[2020.12.05-07.55.43:214][493]LogModuleManager: Shutting down and abandoning module Layers (644)
+[2020.12.05-07.55.43:359][493]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (642)
+[2020.12.05-07.55.43:359][493]LogModuleManager: Shutting down and abandoning module DetailCustomizations (640)
+[2020.12.05-07.55.43:380][493]LogModuleManager: Shutting down and abandoning module PackagesDialog (638)
+[2020.12.05-07.55.43:410][493]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (636)
+[2020.12.05-07.55.43:447][493]LogModuleManager: Shutting down and abandoning module Persona (634)
+[2020.12.05-07.55.43:494][493]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (633)
+[2020.12.05-07.55.43:494][493]LogModuleManager: Shutting down and abandoning module AnimGraph (631)
+[2020.12.05-07.55.43:508][493]LogModuleManager: Shutting down and abandoning module Kismet (628)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module KismetWidgets (627)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module GraphEditor (624)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module StructViewer (622)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module ClassViewer (620)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module Toolbox (618)
+[2020.12.05-07.55.43:542][493]LogModuleManager: Shutting down and abandoning module ModuleUI (616)
+[2020.12.05-07.55.43:555][493]LogModuleManager: Shutting down and abandoning module OutputLog (614)
+[2020.12.05-07.55.43:556][493]LogModuleManager: Shutting down and abandoning module GammaUI (612)
+[2020.12.05-07.55.43:571][493]LogModuleManager: Shutting down and abandoning module Documentation (610)
+[2020.12.05-07.55.43:571][493]LogModuleManager: Shutting down and abandoning module LiveCoding (608)
+[2020.12.05-07.55.43:595][493]LogModuleManager: Shutting down and abandoning module LevelSequence (606)
+[2020.12.05-07.55.43:595][493]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (604)
+[2020.12.05-07.55.43:595][493]LogModuleManager: Shutting down and abandoning module MovieScene (602)
+[2020.12.05-07.55.43:655][493]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (600)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module LauncherPlatform (598)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module AnalyticsET (596)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module PortalServices (594)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module PortalRpc (592)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module MessagingRpc (590)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (588)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module AudioMixerCore (587)
+[2020.12.05-07.55.43:680][493]LogModuleManager: Shutting down and abandoning module AIModule (584)
+[2020.12.05-07.55.43:705][493]LogModuleManager: Shutting down and abandoning module GameplayDebugger (583)
+[2020.12.05-07.55.43:719][493]LogModuleManager: Shutting down and abandoning module AITestSuite (581)
+[2020.12.05-07.55.43:798][493]LogModuleManager: Shutting down and abandoning module NavigationSystem (579)
+[2020.12.05-07.55.43:798][493]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (576)
+[2020.12.05-07.55.43:802][493]LogModuleManager: Shutting down and abandoning module ProfilerService (574)
+[2020.12.05-07.55.43:909][493]LogModuleManager: Shutting down and abandoning module TaskGraph (572)
+[2020.12.05-07.55.43:966][493]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (570)
+[2020.12.05-07.55.43:966][493]LogModuleManager: Shutting down and abandoning module OculusEditor (568)
+[2020.12.05-07.55.43:976][493]LogModuleManager: Shutting down and abandoning module OculusInput (566)
+[2020.12.05-07.55.43:976][493]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (564)
+[2020.12.05-07.55.43:976][493]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (562)
+[2020.12.05-07.55.43:976][493]LogModuleManager: Shutting down and abandoning module CollectionManager (561)
+[2020.12.05-07.55.43:998][493]LogModuleManager: Shutting down and abandoning module SynthesisEditor (558)
+[2020.12.05-07.55.43:998][493]LogModuleManager: Shutting down and abandoning module Synthesis (556)
+[2020.12.05-07.55.44:063][493]LogModuleManager: Shutting down and abandoning module ScreenshotTools (554)
+[2020.12.05-07.55.44:063][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (552)
+[2020.12.05-07.55.44:073][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (550)
+[2020.12.05-07.55.44:073][493]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (548)
+[2020.12.05-07.55.44:073][493]LogModuleManager: Shutting down and abandoning module GooglePAD (546)
+[2020.12.05-07.55.44:073][493]LogModuleManager: Shutting down and abandoning module EditableMesh (544)
+[2020.12.05-07.55.44:082][493]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (542)
+[2020.12.05-07.55.44:082][493]LogModuleManager: Shutting down and abandoning module AudioCapture (540)
+[2020.12.05-07.55.44:082][493]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (539)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module CableComponent (536)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module AssetTags (534)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (532)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module AndroidPermission (526)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (524)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (522)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module TemplateSequence (520)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module ImgMedia (518)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (514)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2020.12.05-07.55.44:100][493]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2020.12.05-07.55.44:123][493]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (504)
+[2020.12.05-07.55.44:183][493]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (502)
+[2020.12.05-07.55.44:183][493]LogModuleManager: Shutting down and abandoning module MotoSynth (500)
+[2020.12.05-07.55.44:183][493]LogModuleManager: Shutting down and abandoning module MeshConversion (498)
+[2020.12.05-07.55.44:221][493]LogModuleManager: Shutting down and abandoning module DynamicMesh (496)
+[2020.12.05-07.55.44:254][493]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (494)
+[2020.12.05-07.55.44:269][493]LogModuleManager: Shutting down and abandoning module GeometricObjects (492)
+[2020.12.05-07.55.44:278][493]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (490)
+[2020.12.05-07.55.44:278][493]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (489)
+[2020.12.05-07.55.44:284][493]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (486)
+[2020.12.05-07.55.44:284][493]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (484)
+[2020.12.05-07.55.44:284][493]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (482)
+[2020.12.05-07.55.44:290][493]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (480)
+[2020.12.05-07.55.44:290][493]LogModuleManager: Shutting down and abandoning module ChaosNiagara (478)
+[2020.12.05-07.55.44:299][493]LogModuleManager: Shutting down and abandoning module FractureEditor (476)
+[2020.12.05-07.55.44:330][493]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (474)
+[2020.12.05-07.55.44:330][493]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (473)
+[2020.12.05-07.55.44:330][493]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (470)
+[2020.12.05-07.55.44:330][493]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2020.12.05-07.55.44:346][493]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (466)
+[2020.12.05-07.55.44:346][493]LogModuleManager: Shutting down and abandoning module AutomationUtils (464)
+[2020.12.05-07.55.44:346][493]LogModuleManager: Shutting down and abandoning module AlembicImporter (462)
+[2020.12.05-07.55.44:350][493]LogModuleManager: Shutting down and abandoning module AlembicLibrary (461)
+[2020.12.05-07.55.44:350][493]LogModuleManager: Shutting down and abandoning module GeometryCache (460)
+[2020.12.05-07.55.44:350][493]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (459)
+[2020.12.05-07.55.44:350][493]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (454)
+[2020.12.05-07.55.44:350][493]LogModuleManager: Shutting down and abandoning module PluginBrowser (452)
+[2020.12.05-07.55.44:372][493]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (450)
+[2020.12.05-07.55.44:380][493]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (448)
+[2020.12.05-07.55.44:391][493]LogModuleManager: Shutting down and abandoning module CurveEditorTools (446)
+[2020.12.05-07.55.44:427][493]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (444)
+[2020.12.05-07.55.44:427][493]LogModuleManager: Shutting down and abandoning module CryptoKeys (442)
+[2020.12.05-07.55.44:427][493]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (440)
+[2020.12.05-07.55.44:427][493]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2020.12.05-07.55.44:444][493]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (436)
+[2020.12.05-07.55.44:444][493]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (434)
+[2020.12.05-07.55.44:477][493]LogModuleManager: Shutting down and abandoning module UObjectPlugin (432)
+[2020.12.05-07.55.44:477][493]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (430)
+[2020.12.05-07.55.44:491][493]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (428)
+[2020.12.05-07.55.44:491][493]LogModuleManager: Shutting down and abandoning module RiderGameControlExtension (426)
+[2020.12.05-07.55.44:505][493]LogModuleManager: Shutting down and abandoning module RiderBlueprintExtension (424)
+[2020.12.05-07.55.44:510][493]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (422)
+[2020.12.05-07.55.44:550][493]LogModuleManager: Shutting down and abandoning module PluginUtils (420)
+[2020.12.05-07.55.44:570][493]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (418)
+[2020.12.05-07.55.44:621][493]LogModuleManager: Shutting down and abandoning module GitSourceControl (416)
+[2020.12.05-07.55.44:642][493]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2020.12.05-07.55.44:652][493]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2020.12.05-07.55.44:652][493]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2020.12.05-07.55.44:652][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2020.12.05-07.55.44:652][493]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2020.12.05-07.55.44:652][493]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2020.12.05-07.55.44:671][493]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2020.12.05-07.55.44:734][493]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2020.12.05-07.55.44:743][493]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module SoundFields (394)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module SignificanceManager (392)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (390)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (388)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (382)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (380)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2020.12.05-07.55.44:786][493]LogModuleManager: Shutting down and abandoning module UdpMessaging (376)
+[2020.12.05-07.55.44:887][493]LogModuleManager: Shutting down and abandoning module TcpMessaging (374)
+[2020.12.05-07.55.45:002][493]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2020.12.05-07.55.45:002][493]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (370)
+[2020.12.05-07.55.45:002][493]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (368)
+[2020.12.05-07.55.45:002][493]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (366)
+[2020.12.05-07.55.45:002][493]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (364)
+[2020.12.05-07.55.45:012][493]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (362)
+[2020.12.05-07.55.45:058][493]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.05-07.55.45:058][493]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (360)
+[2020.12.05-07.55.45:058][493]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (358)
+[2020.12.05-07.55.45:058][493]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (356)
+[2020.12.05-07.55.45:088][493]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (354)
+[2020.12.05-07.55.45:088][493]LogModuleManager: Shutting down and abandoning module MagicLeapController (352)
+[2020.12.05-07.55.45:088][493]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.05-07.55.45:088][493]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (350)
+[2020.12.05-07.55.45:088][493]LogModuleManager: Shutting down and abandoning module MagicLeapAR (348)
+[2020.12.05-07.55.45:088][493]LogModuleManager: Shutting down and abandoning module AugmentedReality (347)
+[2020.12.05-07.55.45:102][493]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2020.12.05-07.55.45:102][493]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2020.12.05-07.55.45:142][493]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2020.12.05-07.55.45:166][493]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module NiagaraCore (336)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (334)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (332)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module FacialAnimation (330)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module DataValidation (328)
+[2020.12.05-07.55.45:217][493]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (326)
+[2020.12.05-07.55.45:238][493]LogModuleManager: Shutting down and abandoning module LevelEditor (325)
+[2020.12.05-07.55.45:284][493]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (324)
+[2020.12.05-07.55.45:304][493]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (322)
+[2020.12.05-07.55.45:304][493]LogModuleManager: Shutting down and abandoning module MainFrame (320)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module HotReload (319)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module ToolMenus (315)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module ContentBrowser (313)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module ContentBrowserData (312)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module TreeMap (309)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (306)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module RiderLoggingExtension (304)
+[2020.12.05-07.55.45:333][493]LogModuleManager: Shutting down and abandoning module RiderLink (302)
+[2020.12.05-07.55.45:452][493]LogModuleManager: Shutting down and abandoning module RD (300)
+[2020.12.05-07.55.45:452][493]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2020.12.05-07.55.45:452][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2020.12.05-07.55.45:452][493]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2020.12.05-07.55.45:469][493]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2020.12.05-07.55.45:469][493]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2020.12.05-07.55.45:470][493]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2020.12.05-07.55.45:487][493]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2020.12.05-07.55.45:487][493]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2020.12.05-07.55.45:487][493]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2020.12.05-07.55.45:487][493]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2020.12.05-07.55.45:504][493]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2020.12.05-07.55.45:504][493]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2020.12.05-07.55.45:504][493]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2020.12.05-07.55.45:504][493]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2020.12.05-07.55.45:520][493]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2020.12.05-07.55.45:535][493]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2020.12.05-07.55.45:535][493]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2020.12.05-07.55.45:643][493]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2020.12.05-07.55.45:643][493]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2020.12.05-07.55.45:669][493]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2020.12.05-07.55.45:669][493]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2020.12.05-07.55.45:693][493]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2020.12.05-07.55.45:739][493]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2020.12.05-07.55.45:739][493]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2020.12.05-07.55.45:800][493]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2020.12.05-07.55.45:800][493]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2020.12.05-07.55.45:808][493]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2020.12.05-07.55.45:809][493]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2020.12.05-07.55.45:809][493]LogModuleManager: Shutting down and abandoning module Core (230)
+[2020.12.05-07.55.45:809][493]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2020.12.05-07.55.45:846][493]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2020.12.05-07.55.45:869][493]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2020.12.05-07.55.45:888][493]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2020.12.05-07.55.45:888][493]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2020.12.05-07.55.45:888][493]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2020.12.05-07.55.45:909][493]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2020.12.05-07.55.45:927][493]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2020.12.05-07.55.45:936][493]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2020.12.05-07.55.45:936][493]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2020.12.05-07.55.45:949][493]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2020.12.05-07.55.45:949][493]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2020.12.05-07.55.45:976][493]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2020.12.05-07.55.45:997][493]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2020.12.05-07.55.46:004][493]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2020.12.05-07.55.46:004][493]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2020.12.05-07.55.46:024][493]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2020.12.05-07.55.46:038][493]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2020.12.05-07.55.46:095][493]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2020.12.05-07.55.46:105][493]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2020.12.05-07.55.46:121][493]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2020.12.05-07.55.46:130][493]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2020.12.05-07.55.46:136][493]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2020.12.05-07.55.46:136][493]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2020.12.05-07.55.46:136][493]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2020.12.05-07.55.46:136][493]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2020.12.05-07.55.46:155][493]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2020.12.05-07.55.46:163][493]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2020.12.05-07.55.46:163][493]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2020.12.05-07.55.46:163][493]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2020.12.05-07.55.46:175][493]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2020.12.05-07.55.46:175][493]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2020.12.05-07.55.46:190][493]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2020.12.05-07.55.46:192][493]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2020.12.05-07.55.46:207][493]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2020.12.05-07.55.46:207][493]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2020.12.05-07.55.46:207][493]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2020.12.05-07.55.46:210][493]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2020.12.05-07.55.46:218][493]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2020.12.05-07.55.46:218][493]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2020.12.05-07.55.46:232][493]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2020.12.05-07.55.46:243][493]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2020.12.05-07.55.46:243][493]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2020.12.05-07.55.46:243][493]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2020.12.05-07.55.46:259][493]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.05-07.55.46:260][493]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2020.12.05-07.55.46:273][493]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2020.12.05-07.55.46:273][493]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2020.12.05-07.55.46:273][493]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2020.12.05-07.55.46:285][493]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2020.12.05-07.55.46:285][493]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2020.12.05-07.55.46:347][493]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2020.12.05-07.55.46:371][493]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2020.12.05-07.55.46:494][493]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2020.12.05-07.55.46:494][493]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.05-07.55.46:512][493]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACCAF367-49CA-88FB-6CC4-D58723836AFB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14685802%2B%2B%2BUE4%2BRelease-4.26&UserID=076873184f71ee7fc95d94b2422a31ee%7Ce4c7f011b62140b19fae35853a378a0a%7C26b06a51-b6c3-4838-9011-c4d03bfd6727&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.05-07.55.46:512][493]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2020.12.05-07.55.46:532][493]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2020.12.05-07.55.46:534][493]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2020.12.05-07.55.46:572][493]LogModuleManager: Shutting down and abandoning module Media (71)
+[2020.12.05-07.55.46:573][493]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2020.12.05-07.55.46:574][493]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2020.12.05-07.55.46:583][493]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2020.12.05-07.55.46:594][493]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2020.12.05-07.55.46:595][493]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2020.12.05-07.55.46:601][493]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2020.12.05-07.55.46:601][493]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2020.12.05-07.55.46:601][493]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.12.05-07.55.46:601][493]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.12.05-07.55.46:602][493]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.12.05-07.55.46:602][493]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.12.05-07.55.46:640][493]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2020.12.05-07.55.46:641][493]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2020.12.05-07.55.46:641][493]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2020.12.05-07.55.46:641][493]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2020.12.05-07.55.46:641][493]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.05-07.55.46:642][493]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2020.12.05-07.55.46:691][493]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.12.05-07.55.46:691][493]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.05-07.55.46:691][493]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.05-07.55.46:691][493]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.05-07.55.46:691][493]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.05-07.55.46:703][493]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.05-07.55.46:732][493]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.05-07.55.46:732][493]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.05-07.55.46:741][493]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.05-07.55.46:760][493]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.05-07.55.46:772][493]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.05-07.55.46:772][493]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.05-07.55.46:772][493]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.05-07.55.46:772][493]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.05-07.55.46:773][493]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.05-07.55.46:773][493]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.05-07.55.46:773][493]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.05-07.55.46:802][493]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.05-07.55.46:824][493]LogD3D11RHI: Shutdown
+[2020.12.05-07.55.46:824][493]LogD3D11RHI: CleanupD3DDevice
+[2020.12.05-07.55.46:994][493]LogExit: Exiting.
+[2020.12.05-07.55.47:005][493]Log file closed, 12/05/20 15:55:47

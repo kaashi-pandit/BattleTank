@@ -1,0 +1,3 @@
+C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Source\BattleTank\Public\TankBarrel.h
+C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankBarrel.generated.h

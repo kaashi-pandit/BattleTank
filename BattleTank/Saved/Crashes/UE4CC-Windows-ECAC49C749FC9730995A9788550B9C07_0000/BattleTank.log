@@ -1,0 +1,1492 @@
+﻿Log file open, 12/06/20 11:42:40
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BattleTank
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290925
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Found config from plugin[XGEController] C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14685802
+LogInit: Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Net CL: 14685802
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov  8 2020 07:07:38
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: K:/UE4.25/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:581][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:592][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.06-03.42.40:592][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.06-03.42.40:593][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.06-03.42.40:593][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.06-03.42.40:593][  0]LogHAL: Display: Platform has ~ 16 GB [17014837248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.06-03.42.40:593][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.06-03.42.40:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.06-03.42.40:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.06-03.42.40:595][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.06-03.42.40:595][  0]LogInit: Computer: DESKTOP-TLTKENT
+[2020.12.06-03.42.40:595][  0]LogInit: User: PiyushPandey
+[2020.12.06-03.42.40:595][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.06-03.42.40:595][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.06-03.42.40:595][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.06-03.42.40:595][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.06-03.42.40:595][  0]LogMemory: Process Physical Memory: 132.77 MB used, 132.78 MB peak
+[2020.12.06-03.42.40:595][  0]LogMemory: Process Virtual Memory: 118.16 MB used, 118.16 MB peak
+[2020.12.06-03.42.40:595][  0]LogMemory: Physical Memory: 5405.94 MB used,  10820.67 MB free, 16226.61 MB total
+[2020.12.06-03.42.40:595][  0]LogMemory: Virtual Memory: 134206440.00 MB used,  11284.86 MB free, 134217728.00 MB total
+[2020.12.06-03.42.40:632][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.06-03.42.40:656][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.06-03.42.40:656][  0]LogInit: Using OS detected language (en-US).
+[2020.12.06-03.42.40:656][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.06-03.42.40:658][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.06-03.42.40:861][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.06-03.42.40:878][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.06-03.42.40:895][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.06-03.42.40:895][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.06-03.42.41:061][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.06-03.42.41:061][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.06-03.42.41:061][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.06-03.42.41:061][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.06-03.42.41:184][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.12.06-03.42.41:184][  0]LogD3D11RHI:       8031/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.06-03.42.41:196][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.06-03.42.41:196][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.06-03.42.41:198][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.06-03.42.41:198][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.06-03.42.41:198][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.06-03.42.41:236][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.06-03.42.41:237][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.06-03.42.41:237][  0]LogWindows: EnumDisplayDevices:
+[2020.12.06-03.42.41:237][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.06-03.42.41:237][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.06-03.42.41:237][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.06-03.42.41:238][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.06-03.42.41:238][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.06-03.42.41:238][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.06-03.42.41:238][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.06-03.42.41:239][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.06-03.42.41:239][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.12.06-03.42.41:239][  0]LogD3D11RHI:   Driver Version: 431.23 (internal:26.21.14.3123, unified:431.23)
+[2020.12.06-03.42.41:239][  0]LogD3D11RHI:      Driver Date: 6-24-2019
+[2020.12.06-03.42.41:239][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.12.06-03.42.41:291][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.06-03.42.41:291][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.06-03.42.41:291][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.06-03.42.41:305][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.06-03.42.41:306][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.06-03.42.41:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.06-03.42.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.06-03.42.41:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.06-03.42.41:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.06-03.42.41:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.06-03.42.41:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.06-03.42.41:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.06-03.42.41:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.06-03.42.41:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.06-03.42.41:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.06-03.42.41:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.06-03.42.41:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.06-03.42.41:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.06-03.42.41:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.06-03.42.41:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.06-03.42.41:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.06-03.42.41:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.06-03.42.41:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.06-03.42.41:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.06-03.42.41:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.06-03.42.41:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.06-03.42.41:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.06-03.42.41:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.06-03.42.41:778][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.06-03.42.41:784][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.06-03.42.41:827][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.06-03.42.41:827][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Intermediate/Shaders/WorkingDirectory/1944/).
+[2020.12.06-03.42.41:827][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Piyush Pandey/AppData/Local/Temp/UnrealShaderWorkingDir/0FF26C174E100CE391E152A7616628DC/'.
+[2020.12.06-03.42.41:827][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.06-03.42.41:827][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.06-03.42.42:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.06-03.42.42:592][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.06-03.42.42:592][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.06-03.42.42:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.06-03.42.42:595][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.06-03.42.42:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.06-03.42.42:595][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.06-03.42.42:605][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.06-03.42.42:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.06-03.42.42:605][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.06-03.42.42:651][  0]LogDerivedDataCache: Speed tests for C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2020.12.06-03.42.42:652][  0]LogDerivedDataCache: Display: Performance to C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1342.51MBs, RandomWriteSpeed=20.72MBs. Assigned SpeedClass 'Local'
+[2020.12.06-03.42.42:652][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.06-03.42.42:652][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.06-03.42.42:652][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.06-03.42.42:694][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.06-03.42.42:695][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.06-03.42.42:718][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.06-03.42.42:945][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.06-03.42.42:945][  0]LogInit: Active device profile: [000001AC9ED52000][000001AC9EB235C0 49] Windows
+[2020.12.06-03.42.42:945][  0]LogInit: Profiles: [000001AC9ED52000][000001AC9EB235C0 49] Windows, [000001AC9ECE0B00][000001AC9EB27700 49] WindowsNoEditor, [000001AC9ED50A00][000001AC9EB2B840 49] WindowsServer, [000001AC9ECE1F00][000001AC9EB339C0 49] WindowsClient, [000001AC9ECF3E00][000001AC9EB37B40 49] IOS, [000001AC9ED50B00][000001AC9EB3BCC0 49] iPadAir, [000001AC9ECE1E00][000001AC9EB3E180 49] iPadAir2, [000001AC9EC8DB00][000001AC9EB46440 49] IPadPro, [000001AC9EC8DC00][000001AC9EB42480 49] iPadAir3, [000001AC9ECE0100][000001AC9EB4A600 49] iPadAir4, [000001AC9EC8E000][000001AC9EB4E780 49] iPadMini2, [000001AC9ECE2800][000001AC9EB52900 49] iPadMini3, [000001AC9EC8DF00][000001AC9EB56A80 49] iPadMini4, [000001AC9ECE3500][000001AC9EB5AC00 49] iPadMini5, [000001AC9ECF0500][000001AC9EB62EC0 49] iPhone6, [000001AC9ECF0400][000001AC9EB5EF00 49] iPodTouch6, [000001AC9EC8CD00][000001AC9EB6B1C0 49] iPhone7, [000001AC9EC8EF00][000001AC9EB67200 49] iPodTouch7, [000001AC9ECF0300][000001AC9EB6F380 49] iPhone5S, [000001AC9EC8D200][000001AC9EB73500 49] iPhone6Plus, [000001AC9ECF1B00][000001AC9EB2F640 49] iPhone6S, [000001AC9EC8F600][000001AC9EB77780 49] iPhone6SPlus, [000001AC9ECF0200][000001AC9EB7B8C0 49] iPhone7Plus, [000001AC9EC8DE00][000001AC9EB7FA00 49] iPhoneSE, [000001AC9ECF3900][000001AC9EB87B80 49] iPhone8, [000001AC9EC8FB00][000001AC9EB8BD00 49] iPhone8Plus, [000001AC9ECF2300][000001AC9EB8E1C0 49] iPhoneX, [000001AC9EC8EA00][000001AC9EB92340 49] iPhoneXS, [000001AC9ECF0700][000001AC9EB964C0 49] iPhoneXSMax, [000001AC9EC8D000][000001AC9EB9A640 49] iPhoneXR, [000001AC9ECF2400][000001AC9EB9E7C0 49] iPhone11, [000001AC9EC8C800][000001AC9EBA2940 49] iPhone11Pro, [000001AC9ECF3800][000001AC9EBA6AC0 49] iPhone11ProMax, [000001AC9EC8FC00][000001AC9EBAAC40 49] iPhoneSE2, [000001AC9ECF1600][000001AC9EBAEDC0 49] iPhone12Mini, [000001AC9EC8CC00][000001AC9EBB2F40 49] iPhone12, [000001AC9ECF2500][000001AC9EBB70C0 49] iPhone12Pro, [000001AC9EC8F400][000001AC9EBBB240 49] iPhone12ProMax, [000001AC9ECF2600][000001AC9EBBF3C0 49] iPadPro105, [000001AC9ED50200][000001AC9EBC3540 49] iPadPro129, [000001AC9ECF0900][000001AC9EB83680 49] iPadPro97, [000001AC9ED51700][000001AC9EBC77C0 49] iPadPro2_129, [000001AC9ECF0B00][000001AC9EBCB900 49] iPad5, [000001AC9ED50500][000001AC9EBCFA40 49] iPad6, [000001AC9ECF0F00][000001AC9EBD7BC0 49] iPad7, [000001AC9ED51400][000001AC9EBDBD40 49] iPad8, [000001AC9ECF2A00][000001AC9EBDE200 49] iPadPro11, [000001AC9ED51A00][000001AC9EBE2380 49] iPadPro2_11, [000001AC9ECF2900][000001AC9EBE6500 49] iPadPro3_129, [000001AC9ED51900][000001AC9EBEA680 49] iPadPro4_129, [000001AC9ECF3200][000001AC9EBEE800 49] AppleTV, [000001AC9ED51500][000001AC9EBF2980 49] AppleTV4K, [000001AC9ECF0E00][000001AC9EBF6B00 49] TVOS, [000001AC9ED50300][000001AC9EBFAC80 49] Mac, [000001AC9ECF3B00][000001AC9EBFEE00 49] MacClient, [000001AC9ED51E00][000001AC9EC02F80 49] MacNoEditor, [000001AC9ECF0600][000001AC9EC07100 49] MacServer, [000001AC9ED50F00][000001AC9EC0B280 49] Linux, [000001AC9ECF2E00][000001AC9EC0F400 49] LinuxNoEditor, [000001AC9ED50E00][000001AC9EC13580 49] LinuxAArch64NoEditor, [000001AC9ECF0100][000001AC9EC17700 49] LinuxClient, [000001AC9ED52400][000001AC9EBD3840 49] LinuxAArch64Client, [000001AC9ECF2000][000001AC9EC1B980 49] LinuxServer, [000001AC9ED51D00][000001AC9FC31AC0 49] LinuxAArch64Server, [000001AC9ECF2200][000001AC9FC39C40 49] Android, [000001AC9ED50400][000001AC9FC3C100 49] Android_Low, [000001AC9ECF1300][000001AC9FC40280 49] Android_Mid, [000001AC9ED51200][000001AC9FC44400 49] Android_High, [000001AC9ECF1F00][000001AC9FC48580 49] Android_Default, [000001AC9ED50800][000001AC9FC4C700 49] Android_Adreno4xx, [000001AC9ECE3D00][000001AC9FC50880 49] Android_Adreno5xx_Low, [000001AC9EC8D900][000001AC9FC54A00 49] Android_Adreno5xx, [000001AC9ECE0900][000001AC9FC58B80 49] Android_Adreno6xx, [000001AC9EC8D700][000001AC9FC5CD00 49] Android_Adreno6xx_Vulkan, [000001AC9ECE1D00][000001AC9FC60E80 49] Android_Mali_T6xx, [000001AC9EC8DD00][000001AC9FC65000 49] Android_Mali_T7xx, [000001AC9ECE0C00][000001AC9FC69180 49] Android_Mali_T8xx, [000001AC9EC8CA00][000001AC9FC6D300 49] Android_Mali_G71, [000001AC9ECE2D00][000001AC9FC71480 49] Android_Mali_G72, [000001AC9EC8D500][000001AC9FC75600 49] Android_Mali_G72_Vulkan, [000001AC9ECE1C00][000001AC9FC79780 49] Android_Mali_G76, [000001AC9EC8C300][000001AC9FC358C0 49] Android_Mali_G76_Vulkan, [000001AC9ECE0E00][000001AC9FC7DA00 49] Android_Mali_G77, [000001AC9EC8FE00][000001AC9FC81B40 49] Android_Mali_G77_Vulkan, [000001AC9ECE3400][000001AC9FC89CC0 49] Android_Vulkan_SM5, [000001AC9EC8E300][000001AC9FC8C180 49] Android_PowerVR_G6xxx, [000001AC9ECE1800][000001AC9FC90300 49] Android_PowerVR_GT7xxx, [000001AC9EC8E900][000001AC9FC94480 49] Android_PowerVR_GE8xxx, [000001AC9ECE2F00][000001AC9FC98600 49] Android_PowerVR_GM9xxx, [000001AC9EC8CE00][000001AC9FC9C780 49] Android_PowerVR_GM9xxx_Vulkan, [000001AC9ECE3300][000001AC9FCA0900 49] Android_TegraK1, [000001AC9EC8EC00][000001AC9FCA4A80 49] Android_Unknown_Vulkan, [000001AC9ECE1B00][000001AC9FCA8C00 49] Lumin, [000001AC9EC8D600][000001AC9FCACD80 49] Lumin_Desktop, [000001AC9ECE0500][000001AC9FCB0F00 49] HoloLens, 
+[2020.12.06-03.42.43:074][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.06-03.42.43:074][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.06-03.42.43:074][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.06-03.42.43:074][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.06-03.42.43:074][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.06-03.42.43:100][  0]LogNetVersion: BattleTank 1.0.0, NetCL: 14685802, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4204264390)
+[2020.12.06-03.42.43:655][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.06-03.42.43:716][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.060323 seconds
+[2020.12.06-03.42.43:720][  0]LogUObjectArray: 16822 objects as part of root set at end of initial load.
+[2020.12.06-03.42.43:720][  0]LogUObjectAllocator: 4207504 out of 0 bytes used by permanent object pool.
+[2020.12.06-03.42.43:720][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.06-03.42.44:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.06-03.42.44:153][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.06-03.42.44:342][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.44:342][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.44:345][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.44:348][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.44:382][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.44:427][  0]LogUProjectInfo: Found projects:
+[2020.12.06-03.42.44:501][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.06-03.42.44:531][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.06-03.42.44:531][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.06-03.42.44:602][  0]LogCollectionManager: Loaded 0 collections in 0.002681 seconds
+[2020.12.06-03.42.44:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Collections/' took 0.00s
+[2020.12.06-03.42.44:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Developers/PiyushPandey/Collections/' took 0.00s
+[2020.12.06-03.42.44:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Collections/' took 0.00s
+[2020.12.06-03.42.44:633][  0]LogOcInput: OculusInput pre-init called
+[2020.12.06-03.42.44:648][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.06-03.42.44:648][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.06-03.42.44:695][  0]LogEngine: Initializing Engine...
+[2020.12.06-03.42.44:695][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.06-03.42.44:705][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.06-03.42.44:706][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.06-03.42.44:817][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.06-03.42.44:824][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.06-03.42.44:838][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.06-03.42.44:841][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.06-03.42.44:841][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-03.42.44:841][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-03.42.44:841][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-03.42.44:842][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-03.42.44:842][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 5: BackRight
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.12.06-03.42.44:936][  0]LogAudioMixer: Display: 7: SideRight
+[2020.12.06-03.42.45:185][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.06-03.42.45:189][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-03.42.45:193][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-03.42.45:193][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-03.42.45:194][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-03.42.45:194][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.06-03.42.45:194][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.06-03.42.45:195][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.06-03.42.45:195][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.06-03.42.45:195][  0]LogInit: FAudioDevice initialized.
+[2020.12.06-03.42.45:195][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.06-03.42.45:195][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.06-03.42.45:287][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.06-03.42.45:291][  0]LogInit: Texture streaming: Enabled
+[2020.12.06-03.42.45:309][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14685802+++UE4+Release-4.26
+[2020.12.06-03.42.45:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.06-03.42.45:313][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.06-03.42.45:315][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.06-03.42.45:345][  0]LogInit: Transaction tracking system initialized
+[2020.12.06-03.42.45:373][  0]BlueprintLog: New page: Editor Load
+[2020.12.06-03.42.45:443][  0]LocalizationService: Localization service is disabled
+[2020.12.06-03.42.45:463][  0]TimingProfiler: Initialize
+[2020.12.06-03.42.45:464][  0]TimingProfiler: OnSessionChanged
+[2020.12.06-03.42.45:464][  0]LoadingProfiler: Initialize
+[2020.12.06-03.42.45:464][  0]LoadingProfiler: OnSessionChanged
+[2020.12.06-03.42.45:464][  0]NetworkingProfiler: Initialize
+[2020.12.06-03.42.45:464][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.06-03.42.45:464][  0]MemoryProfiler: Initialize
+[2020.12.06-03.42.45:464][  0]MemoryProfiler: OnSessionChanged
+[2020.12.06-03.42.45:624][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.06-03.42.45:624][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.06-03.42.45:736][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/' took 0.01s
+[2020.12.06-03.42.45:919][  0]SourceControl: Source control is disabled
+[2020.12.06-03.42.45:919][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.185
+[2020.12.06-03.42.45:919][  0]Cmd: MAP LOAD FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.06-03.42.45:925][  0]LightingResults: New page: Lighting Build
+[2020.12.06-03.42.45:926][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.42.45:926][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.42.45:926][  0]MapCheck: New page: Map Check
+[2020.12.06-03.42.45:926][  0]LightingResults: New page: Lighting Build
+[2020.12.06-03.42.45:933][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.06-03.42.46:343][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2020.12.06-03.42.46:345][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.06-03.42.46:345][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.06-03.42.46:350][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.06-03.42.46:350][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.06-03.42.46:351][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.12.06-03.42.46:351][  0]LogFileHelpers: Loading map 'MainMenu' took 0.432
+[2020.12.06-03.42.46:355][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.621
+[2020.12.06-03.42.46:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.42.46:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.42.46:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.42.46:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.42.46:984][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3607 classes and 862 folders.
+[2020.12.06-03.42.47:025][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2020.12.06-03.42.47:182][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.06-03.42.47:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.06-03.42.47:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2020.12.06-03.42.47:203][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.06-03.42.47:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.06-03.42.47:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2020.12.06-03.42.47:221][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.06-03.42.47:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.06-03.42.47:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2020.12.06-03.42.47:240][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.06-03.42.47:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.06-03.42.47:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2020.12.06-03.42.47:262][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.06-03.42.47:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.06-03.42.47:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2020.12.06-03.42.47:280][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.06-03.42.47:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.06-03.42.47:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2020.12.06-03.42.47:296][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.06-03.42.47:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.06-03.42.47:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2020.12.06-03.42.47:318][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.06-03.42.47:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.06-03.42.47:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2020.12.06-03.42.47:341][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.06-03.42.47:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.06-03.42.47:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000156
+[2020.12.06-03.42.47:364][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.06-03.42.47:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.06-03.42.47:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2020.12.06-03.42.47:373][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.06-03.42.47:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.06-03.42.47:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2020.12.06-03.42.47:395][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.06-03.42.47:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.06-03.42.47:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2020.12.06-03.42.47:408][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.06-03.42.47:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.06-03.42.47:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000194
+[2020.12.06-03.42.47:419][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.06-03.42.47:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.06-03.42.47:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000209
+[2020.12.06-03.42.47:430][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.06-03.42.47:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.06-03.42.47:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000214
+[2020.12.06-03.42.47:442][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.06-03.42.47:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.06-03.42.47:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000224
+[2020.12.06-03.42.47:454][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.06-03.42.47:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.06-03.42.47:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000245
+[2020.12.06-03.42.47:465][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.06-03.42.47:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.06-03.42.47:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000250
+[2020.12.06-03.42.47:476][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.06-03.42.47:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.06-03.42.47:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000256
+[2020.12.06-03.42.47:490][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.06-03.42.47:490][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:490][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.06-03.42.47:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000260
+[2020.12.06-03.42.47:511][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.06-03.42.47:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.06-03.42.47:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000265
+[2020.12.06-03.42.47:522][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.06-03.42.47:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.06-03.42.47:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000290
+[2020.12.06-03.42.47:548][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.06-03.42.47:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.06-03.42.47:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000295
+[2020.12.06-03.42.47:573][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.06-03.42.47:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.06-03.42.47:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000305
+[2020.12.06-03.42.47:588][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.06-03.42.47:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.06-03.42.47:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000310
+[2020.12.06-03.42.47:606][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.06-03.42.47:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.06-03.42.47:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.06-03.42.47:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000328
+[2020.12.06-03.42.48:888][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.06-03.42.50:783][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.06-03.42.50:903][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.06-03.42.50:906][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.06-03.42.50:942][  0]LogSlate: Took 0.024128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.06-03.42.51:261][  0]LogRenderer: Reallocating scene render targets to support 932x492 Format 10 NumSamples 1 (Frame:1).
+[2020.12.06-03.42.51:633][  0]LogSlate: Took 0.015967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.06-03.42.51:684][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.06-03.42.51:684][  0]LogLoad: (Engine Initialization) Total time: 11.95 seconds
+[2020.12.06-03.42.51:684][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.06-03.42.51:685][  0]LogInit: First time updating LLM stats...
+[2020.12.06-03.42.51:877][  0]LogAssetRegistry: Asset discovery search completed in 9.1596 seconds
+[2020.12.06-03.42.51:879][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.06-03.42.51:933][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.06-03.45.54:640][ 55]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.06-03.45.54:655][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.45.55:640][ 55]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2020.12.06-03.45.57:674][ 55]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.06-03.46.02:271][324]LogSlate: Took 0.028723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.06-03.48.23:173][233]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.06-03.48.44:700][635]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2020.12.06-03.48.47:909][820]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.06-03.48.47:909][820]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.06-03.49.05:082][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.06-03.49.05:135][816]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP677F0CED45F3575D950110876C459865.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.06-03.49.05:160][816]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.06-03.49.05:160][816]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.49.05:949][864]BlueprintLog: New page: Compile Tank_BP
+[2020.12.06-03.49.06:058][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.12.06-03.49.06:096][864]LogSlate: Took 0.014601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.06-03.49.09:513][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.06-03.49.09:541][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.12.06-03.49.09:551][ 62]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/MainMenu725F1D10474015141B8B3CA5F4ED21F3.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap'
+[2020.12.06-03.49.09:578][ 62]AssetCheck: New page: Asset Save: MainMenu
+[2020.12.06-03.49.09:578][ 62]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.12.06-03.49.10:959][123]Candidate modules for hot reload:
+[2020.12.06-03.49.10:959][123]  BattleTank
+[2020.12.06-03.49.10:959][123]Launching UnrealBuildTool... [K:/UE4.25/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleTank,7152 BattleTankEditor Win64 Development -Project="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject" "C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/BattleTank.uproject"  -IgnoreJunk]
+[2020.12.06-03.49.10:962][123]Warning: Starting HotReload took  0.4s.
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: New page: Compilation - Dec 6, 2020, 7:49:16 PM
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle).
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Creating makefile for BattleTankEditor (game project files are newer)
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Building BattleTankEditor...
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.06-03.49.16:608][432]CompilerResultsLog:   [1/3] UE4Editor-BattleTank-7152.lib
+[2020.12.06-03.49.16:608][432]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-7152.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-7152.exp
+[2020.12.06-03.49.16:608][432]CompilerResultsLog:   [2/3] UE4Editor-BattleTank-7152.dll
+[2020.12.06-03.49.16:608][432]CompilerResultsLog:      Creating library C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-7152.suppressed.lib and object C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-7152.suppressed.exp
+[2020.12.06-03.49.16:608][432]CompilerResultsLog:   [3/3] BattleTankEditor.target
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Total time in Parallel executor: 1.70 seconds
+[2020.12.06-03.49.16:608][432]CompilerResultsLog: Total execution time: 5.16 seconds
+[2020.12.06-03.49.16:608][432]LogMainFrame: MainFrame: Module compiling took 6.024 seconds
+[2020.12.06-03.49.16:657][432]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2020.12.06-03.49.16:659][432]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.12.06-03.49.16:860][432]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0133 seconds. Added 3607 classes and 862 folders.
+[2020.12.06-03.49.16:866][432]Display: HotReload took  6.3s.
+[2020.12.06-03.49.40:033][803]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.06-03.49.40:152][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.06-03.49.40:167][803]PIE: New page: PIE session: MainMenu (Dec 6, 2020, 7:49:40 PM)
+[2020.12.06-03.49.40:182][803]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.06-03.49.40:194][803]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.06-03.49.40:194][803]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.06-03.49.40:208][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014043s)
+[2020.12.06-03.49.40:222][803]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.06-03.49.40:223][803]LogPlayLevel: PIE: World Init took: (0.015149s)
+[2020.12.06-03.49.40:223][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.029404s)
+[2020.12.06-03.49.40:266][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.12.06-03.49.40:268][803]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-03.49.40:268][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-03.49.40:268][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-03.49.40:269][803]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-03.49.40:269][803]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 4: BackLeft
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 5: BackRight
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 6: SideLeft
+[2020.12.06-03.49.40:275][803]LogAudioMixer: Display: 7: SideRight
+[2020.12.06-03.49.40:282][803]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.06-03.49.40:282][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-03.49.40:282][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-03.49.40:283][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-03.49.40:283][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-03.49.40:283][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.06-03.49.40:283][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.06-03.49.40:298][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.06-03.49.40:298][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.06-03.49.40:298][803]LogInit: FAudioDevice initialized.
+[2020.12.06-03.49.40:298][803]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2020.12.06-03.49.40:309][803]LogLoad: Game class is 'GameModeBase'
+[2020.12.06-03.49.40:335][803]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.12.06-11.49.40
+[2020.12.06-03.49.40:335][803]LogWorld: Bringing up level for play took: 0.000412
+[2020.12.06-03.49.40:335][803]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.06-03.49.40:414][803]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.12.06-03.49.40:487][803]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2020.12.06-03.49.40:487][803]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2020.12.06-03.49.40:487][803]PIE: Server logged in
+[2020.12.06-03.49.40:498][803]PIE: Play in editor total start time 0.354 seconds.
+[2020.12.06-03.49.43:897][987]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2020.12.06-03.49.43:897][987]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2020.12.06-03.49.43:899][987]LogNet: Browse: /Game/Levels/BattleGround
+[2020.12.06-03.49.43:899][987]LogLoad: LoadMap: /Game/Levels/BattleGround
+[2020.12.06-03.49.43:899][987]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.06-03.49.43:900][987]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.49.43:900][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.49.43:945][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.06-03.49.43:982][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.12.06-03.49.44:605][987]LogAudio: Display: Audio Device (ID: 2) registered with world 'BattleGround'.
+[2020.12.06-03.49.44:606][987]LogAIModule: Creating AISystem for world BattleGround
+[2020.12.06-03.49.44:607][987]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.12.06-03.49.44:623][987]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.12.06-11.49.44
+[2020.12.06-03.49.44:623][987]LogWorld: Bringing up level for play took: 0.015568
+[2020.12.06-03.49.44:633][987]LogTemp: Warning: Player controller begin play : Tank_BP_C_0
+[2020.12.06-03.49.44:633][987]LogLoad: Took 0.735106 seconds to LoadMap(/Game/Levels/BattleGround)
+[2020.12.06-03.49.44:701][988]LogTemp: Warning: Aiming angle is : P=-0.169967 Y=0.000000 R=0.000000
+[2020.12.06-03.49.44:718][989]LogTemp: Warning: Aiming angle is : P=-0.166848 Y=0.000000 R=0.000000
+[2020.12.06-03.49.44:752][991]LogTemp: Warning: Aiming angle is : P=-0.178998 Y=0.000000 R=0.000000
+[2020.12.06-03.49.44:785][993]LogTemp: Warning: Aiming angle is : P=-0.187595 Y=0.000000 R=0.000000
+[2020.12.06-03.49.44:836][996]LogTemp: Warning: Aiming angle is : P=-0.379368 Y=-0.398715 R=0.000000
+[2020.12.06-03.49.44:902][  0]LogTemp: Warning: Aiming angle is : P=-0.573426 Y=-0.532439 R=0.000000
+[2020.12.06-03.49.44:919][  1]LogTemp: Warning: Aiming angle is : P=-0.581386 Y=-0.532447 R=0.000000
+[2020.12.06-03.49.44:969][  4]LogTemp: Warning: Aiming angle is : P=-0.608966 Y=-0.532462 R=0.000000
+[2020.12.06-03.49.44:985][  5]LogTemp: Warning: Aiming angle is : P=-0.619231 Y=-0.532461 R=0.000000
+[2020.12.06-03.49.45:002][  6]LogTemp: Warning: Aiming angle is : P=-0.629954 Y=-0.532469 R=0.000000
+[2020.12.06-03.49.45:018][  7]LogTemp: Warning: Aiming angle is : P=-0.641931 Y=-0.532481 R=0.000000
+[2020.12.06-03.49.45:035][  8]LogTemp: Warning: Aiming angle is : P=-0.652482 Y=-0.532507 R=0.000000
+[2020.12.06-03.49.45:069][ 10]LogTemp: Warning: Aiming angle is : P=-0.676591 Y=-0.532512 R=0.000000
+[2020.12.06-03.49.45:086][ 11]LogTemp: Warning: Aiming angle is : P=-0.689283 Y=-0.532521 R=0.000000
+[2020.12.06-03.49.45:152][ 15]LogTemp: Warning: Aiming angle is : P=-0.743366 Y=-0.532583 R=0.000000
+[2020.12.06-03.49.45:219][ 19]LogTemp: Warning: Aiming angle is : P=-0.802822 Y=-0.532639 R=0.000000
+[2020.12.06-03.49.45:336][ 26]LogTemp: Warning: Aiming angle is : P=-0.908569 Y=-0.532797 R=0.000000
+[2020.12.06-03.49.45:369][ 28]LogTemp: Warning: Aiming angle is : P=-0.938014 Y=-0.643001 R=0.000000
+[2020.12.06-03.49.45:435][ 32]LogTemp: Warning: Aiming angle is : P=-1.436070 Y=-2.188430 R=0.000000
+[2020.12.06-03.49.48:024][154]LogTemp: Warning: Aiming angle is : P=3.620164 Y=49.887386 R=0.000000
+[2020.12.06-03.49.48:314][172]LogTemp: Warning: Aiming angle is : P=-11.558443 Y=-48.426167 R=0.000000
+[2020.12.06-03.49.48:333][174]LogTemp: Warning: Aiming angle is : P=-11.375526 Y=-49.590843 R=0.000000
+[2020.12.06-03.49.48:473][189]LogTemp: Warning: Aiming angle is : P=-11.305953 Y=-49.838493 R=0.000000
+[2020.12.06-03.49.48:541][196]LogTemp: Warning: Aiming angle is : P=-11.274283 Y=-50.269550 R=0.000000
+[2020.12.06-03.49.48:553][197]LogTemp: Warning: Aiming angle is : P=-11.274283 Y=-50.269550 R=0.000000
+[2020.12.06-03.49.48:562][198]LogTemp: Warning: Aiming angle is : P=-11.274283 Y=-50.269550 R=0.000000
+[2020.12.06-03.49.48:570][199]LogTemp: Warning: Aiming angle is : P=-11.274283 Y=-50.269550 R=0.000000
+[2020.12.06-03.49.48:609][203]LogTemp: Warning: Aiming angle is : P=-11.044362 Y=-49.350815 R=0.000000
+[2020.12.06-03.49.48:646][207]LogTemp: Warning: Aiming angle is : P=-10.528331 Y=-48.928524 R=0.000000
+[2020.12.06-03.49.48:657][208]LogTemp: Warning: Aiming angle is : P=-10.252660 Y=-48.710220 R=0.000000
+[2020.12.06-03.49.49:984][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.49.49:984][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_BattleGround
+[2020.12.06-03.49.49:984][312]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.49.49:984][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.49.49:990][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.06-03.49.49:995][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.49.50:014][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.06-03.49.50:022][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-03.49.50:023][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-03.49.50:038][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.49.50:056][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.06-03.49.50:075][313]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.06-03.49.56:655][ 87]LogRenderer: Reallocating scene render targets to support 1072x708 Format 10 NumSamples 1 (Frame:1).
+[2020.12.06-03.50.08:208][413]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.50.08:208][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.50.12:118][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.51.06:972][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.06-03.51.06:990][116]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BPDCF721A64ABAA5A472599BA102E50CEC.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.06-03.51.07:003][116]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.06-03.51.07:003][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.51.07:699][194]BlueprintLog: New page: Compile Tank_BP
+[2020.12.06-03.51.07:837][194]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.12.06-03.51.12:149][699]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.51.12:149][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.51.15:520][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.06-03.51.15:587][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.12.06-03.51.15:598][ 77]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/MainMenu3E6C931F42F528E72FAF22AB1EF5FE70.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap'
+[2020.12.06-03.51.15:624][ 77]AssetCheck: New page: Asset Save: MainMenu
+[2020.12.06-03.51.15:624][ 77]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.12.06-03.51.17:490][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.51.24:700][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.06-03.51.24:719][ 90]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP9CB62F634812914085A96382A01EC9D9.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.06-03.51.24:730][ 90]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.06-03.51.24:730][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.51.25:392][168]BlueprintLog: New page: Compile Tank_BP
+[2020.12.06-03.51.25:453][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.06-03.51.27:168][359]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.06-03.51.27:180][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.06-03.51.27:180][359]PIE: New page: PIE session: MainMenu (Dec 6, 2020, 7:51:27 PM)
+[2020.12.06-03.51.27:202][359]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.06-03.51.27:204][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000953s)
+[2020.12.06-03.51.27:204][359]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.06-03.51.27:204][359]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2020.12.06-03.51.27:204][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002066s)
+[2020.12.06-03.51.27:223][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.06-03.51.27:224][359]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-03.51.27:224][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-03.51.27:224][359]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-03.51.27:224][359]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 4: BackLeft
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 5: BackRight
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 6: SideLeft
+[2020.12.06-03.51.27:229][359]LogAudioMixer: Display: 7: SideRight
+[2020.12.06-03.51.27:236][359]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.06-03.51.27:237][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-03.51.27:237][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-03.51.27:237][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-03.51.27:238][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-03.51.27:238][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.06-03.51.27:238][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.06-03.51.27:251][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.06-03.51.27:251][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.06-03.51.27:251][359]LogInit: FAudioDevice initialized.
+[2020.12.06-03.51.27:251][359]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2020.12.06-03.51.27:261][359]LogLoad: Game class is 'GameModeBase'
+[2020.12.06-03.51.27:262][359]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.12.06-11.51.27
+[2020.12.06-03.51.27:262][359]LogWorld: Bringing up level for play took: 0.000295
+[2020.12.06-03.51.27:263][359]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.12.06-03.51.27:265][359]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2020.12.06-03.51.27:265][359]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2020.12.06-03.51.27:265][359]PIE: Server logged in
+[2020.12.06-03.51.27:266][359]PIE: Play in editor total start time 0.087 seconds.
+[2020.12.06-03.51.27:923][435]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2020.12.06-03.51.27:923][435]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2020.12.06-03.51.27:923][435]LogNet: Browse: /Game/Levels/BattleGround
+[2020.12.06-03.51.27:923][435]LogLoad: LoadMap: /Game/Levels/BattleGround
+[2020.12.06-03.51.27:923][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.12.06-03.51.27:924][435]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.51.27:925][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.51.27:967][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.06-03.51.27:970][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.06-03.51.28:003][435]LogAudio: Display: Audio Device (ID: 3) registered with world 'BattleGround'.
+[2020.12.06-03.51.28:003][435]LogAIModule: Creating AISystem for world BattleGround
+[2020.12.06-03.51.28:003][435]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.12.06-03.51.28:007][435]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2020.12.06-11.51.28
+[2020.12.06-03.51.28:007][435]LogWorld: Bringing up level for play took: 0.002232
+[2020.12.06-03.51.28:009][435]LogTemp: Warning: Player controller begin play : Tank_BP_C_0
+[2020.12.06-03.51.28:009][435]LogLoad: Took 0.084499 seconds to LoadMap(/Game/Levels/BattleGround)
+[2020.12.06-03.51.28:009][435]LogTemp: Warning: Aiming angle is : P=34.270054 Y=-146.064270 R=0.000000
+[2020.12.06-03.51.28:043][437]LogTemp: Warning: Aiming angle is : P=-0.590129 Y=0.000000 R=0.000000
+[2020.12.06-03.51.28:080][440]LogTemp: Warning: Aiming angle is : P=-0.705291 Y=0.000000 R=0.000000
+[2020.12.06-03.51.28:094][441]LogTemp: Warning: Aiming angle is : P=86.857483 Y=0.116987 R=0.000000
+[2020.12.06-03.51.28:107][442]LogTemp: Warning: Aiming angle is : P=-1.971697 Y=0.163591 R=0.000000
+[2020.12.06-03.51.28:138][444]LogTemp: Warning: Aiming angle is : P=88.016609 Y=0.409821 R=0.000000
+[2020.12.06-03.51.28:170][446]LogTemp: Warning: Aiming angle is : P=-9.561419 Y=0.977227 R=0.000000
+[2020.12.06-03.51.28:186][447]LogTemp: Warning: Aiming angle is : P=-11.791680 Y=1.142125 R=0.000000
+[2020.12.06-03.51.28:215][449]LogTemp: Warning: Aiming angle is : P=-14.349854 Y=1.048454 R=0.000000
+[2020.12.06-03.51.28:225][450]LogTemp: Warning: Aiming angle is : P=-14.871682 Y=0.639914 R=0.000000
+[2020.12.06-03.51.28:238][451]LogTemp: Warning: Aiming angle is : P=89.237396 Y=0.444133 R=0.000000
+[2020.12.06-03.51.28:262][453]LogTemp: Warning: Aiming angle is : P=-15.339301 Y=-0.255131 R=0.000000
+[2020.12.06-03.51.28:284][455]LogTemp: Warning: Aiming angle is : P=89.243210 Y=-1.798598 R=0.000000
+[2020.12.06-03.51.28:293][456]LogTemp: Warning: Aiming angle is : P=-14.635280 Y=-3.072150 R=0.000000
+[2020.12.06-03.51.28:313][458]LogTemp: Warning: Aiming angle is : P=-14.315309 Y=-5.208536 R=0.000000
+[2020.12.06-03.51.28:342][461]LogTemp: Warning: Aiming angle is : P=-14.556771 Y=-9.906523 R=0.000000
+[2020.12.06-03.51.28:375][464]LogTemp: Warning: Aiming angle is : P=-14.914687 Y=-14.945134 R=0.000000
+[2020.12.06-03.51.28:389][465]LogTemp: Warning: Aiming angle is : P=-15.049546 Y=-16.584066 R=0.000000
+[2020.12.06-03.51.28:397][466]LogTemp: Warning: Aiming angle is : P=89.293694 Y=-20.566769 R=0.000000
+[2020.12.06-03.51.28:408][467]LogTemp: Warning: Aiming angle is : P=-15.479810 Y=-22.073141 R=0.000000
+[2020.12.06-03.51.28:416][468]LogTemp: Warning: Aiming angle is : P=89.307861 Y=-23.768600 R=0.000000
+[2020.12.06-03.51.28:426][469]LogTemp: Warning: Aiming angle is : P=-15.760671 Y=-25.168238 R=0.000000
+[2020.12.06-03.51.28:446][471]LogTemp: Warning: Aiming angle is : P=89.342216 Y=-27.136515 R=0.000000
+[2020.12.06-03.51.28:465][473]LogTemp: Warning: Aiming angle is : P=-16.133308 Y=-27.256393 R=0.000000
+[2020.12.06-03.51.28:473][474]LogTemp: Warning: Aiming angle is : P=89.354805 Y=-27.290358 R=0.000000
+[2020.12.06-03.51.28:482][475]LogTemp: Warning: Aiming angle is : P=-16.120644 Y=-27.317848 R=0.000000
+[2020.12.06-03.51.28:491][476]LogTemp: Warning: Aiming angle is : P=-16.115065 Y=-27.346634 R=0.000000
+[2020.12.06-03.51.28:500][477]LogTemp: Warning: Aiming angle is : P=-15.994368 Y=-27.260618 R=0.000000
+[2020.12.06-03.51.28:508][478]LogTemp: Warning: Aiming angle is : P=89.359787 Y=-27.110802 R=0.000000
+[2020.12.06-03.51.28:517][479]LogTemp: Warning: Aiming angle is : P=-15.602227 Y=-26.723841 R=0.000000
+[2020.12.06-03.51.28:527][480]LogTemp: Warning: Aiming angle is : P=-15.386456 Y=-26.477415 R=0.000000
+[2020.12.06-03.51.28:544][482]LogTemp: Warning: Aiming angle is : P=89.324249 Y=-25.461763 R=0.000000
+[2020.12.06-03.51.28:554][483]LogTemp: Warning: Aiming angle is : P=89.314682 Y=-25.105972 R=0.000000
+[2020.12.06-03.51.28:563][484]LogTemp: Warning: Aiming angle is : P=-13.710865 Y=-24.125635 R=0.000000
+[2020.12.06-03.51.28:575][485]LogTemp: Warning: Aiming angle is : P=-13.353898 Y=-23.517303 R=0.000000
+[2020.12.06-03.51.28:593][487]LogTemp: Warning: Aiming angle is : P=-11.918653 Y=-21.351961 R=0.000000
+[2020.12.06-03.51.28:601][488]LogTemp: Warning: Aiming angle is : P=-11.416313 Y=-20.600790 R=0.000000
+[2020.12.06-03.51.28:610][489]LogTemp: Warning: Aiming angle is : P=-10.944626 Y=-19.881769 R=0.000000
+[2020.12.06-03.51.28:618][490]LogTemp: Warning: Aiming angle is : P=89.123070 Y=-18.840660 R=0.000000
+[2020.12.06-03.51.28:628][491]LogTemp: Warning: Aiming angle is : P=-9.740002 Y=-18.148708 R=0.000000
+[2020.12.06-03.51.28:639][492]LogTemp: Warning: Aiming angle is : P=89.038872 Y=-17.240597 R=0.000000
+[2020.12.06-03.51.28:656][494]LogTemp: Warning: Aiming angle is : P=-7.469901 Y=-14.963696 R=0.000000
+[2020.12.06-03.51.28:673][496]LogTemp: Warning: Aiming angle is : P=-6.400284 Y=-13.625276 R=0.000000
+[2020.12.06-03.51.28:681][497]LogTemp: Warning: Aiming angle is : P=-6.064599 Y=-13.125030 R=0.000000
+[2020.12.06-03.51.28:689][498]LogTemp: Warning: Aiming angle is : P=-5.819287 Y=-12.866882 R=0.000000
+[2020.12.06-03.51.28:715][501]LogTemp: Warning: Aiming angle is : P=-5.569283 Y=-12.664357 R=0.000000
+[2020.12.06-03.51.28:732][503]LogTemp: Warning: Aiming angle is : P=-5.561139 Y=-12.688906 R=0.000000
+[2020.12.06-03.51.28:740][504]LogTemp: Warning: Aiming angle is : P=88.742439 Y=-12.701579 R=0.000000
+[2020.12.06-03.51.28:749][505]LogTemp: Warning: Aiming angle is : P=-5.550840 Y=-12.714734 R=0.000000
+[2020.12.06-03.51.28:757][506]LogTemp: Warning: Aiming angle is : P=-5.544624 Y=-12.730113 R=0.000000
+[2020.12.06-03.51.28:766][507]LogTemp: Warning: Aiming angle is : P=-5.538734 Y=-12.744123 R=0.000000
+[2020.12.06-03.51.28:775][508]LogTemp: Warning: Aiming angle is : P=-5.536372 Y=-12.655621 R=0.000000
+[2020.12.06-03.51.28:801][511]LogTemp: Warning: Aiming angle is : P=88.768936 Y=-12.562468 R=0.000000
+[2020.12.06-03.51.28:819][513]LogTemp: Warning: Aiming angle is : P=-4.844659 Y=-12.536171 R=0.000000
+[2020.12.06-03.51.28:828][514]LogTemp: Warning: Aiming angle is : P=-4.716112 Y=-12.528080 R=0.000000
+[2020.12.06-03.51.28:835][515]LogTemp: Warning: Aiming angle is : P=-4.605293 Y=-12.544854 R=0.000000
+[2020.12.06-03.51.28:845][516]LogTemp: Warning: Aiming angle is : P=-4.529940 Y=-12.591941 R=0.000000
+[2020.12.06-03.51.28:880][520]LogTemp: Warning: Aiming angle is : P=-4.054809 Y=-12.408761 R=0.000000
+[2020.12.06-03.51.28:888][521]LogTemp: Warning: Aiming angle is : P=-3.919273 Y=-12.302741 R=0.000000
+[2020.12.06-03.51.28:896][522]LogTemp: Warning: Aiming angle is : P=88.703850 Y=-12.322324 R=0.000000
+[2020.12.06-03.51.28:904][523]LogTemp: Warning: Aiming angle is : P=88.695663 Y=-12.228577 R=0.000000
+[2020.12.06-03.51.28:912][524]LogTemp: Warning: Aiming angle is : P=88.862679 Y=-12.166901 R=0.000000
+[2020.12.06-03.51.28:921][525]LogTemp: Warning: Aiming angle is : P=-5.139058 Y=-12.079467 R=0.000000
+[2020.12.06-03.51.28:938][527]LogTemp: Warning: Aiming angle is : P=89.221870 Y=-11.842753 R=0.000000
+[2020.12.06-03.51.28:946][528]LogTemp: Warning: Aiming angle is : P=89.267265 Y=-11.519588 R=0.000000
+[2020.12.06-03.51.28:955][529]LogTemp: Warning: Aiming angle is : P=-7.374901 Y=-11.344893 R=0.000000
+[2020.12.06-03.51.28:972][531]LogTemp: Warning: Aiming angle is : P=89.456642 Y=-11.372274 R=0.000000
+[2020.12.06-03.51.28:980][532]LogTemp: Warning: Aiming angle is : P=-8.668473 Y=-11.394660 R=0.000000
+[2020.12.06-03.51.28:989][533]LogTemp: Warning: Aiming angle is : P=-8.886127 Y=-11.361585 R=0.000000
+[2020.12.06-03.51.28:998][534]LogTemp: Warning: Aiming angle is : P=-9.071136 Y=-11.254401 R=0.000000
+[2020.12.06-03.51.29:006][535]LogTemp: Warning: Aiming angle is : P=-9.258689 Y=-11.183660 R=0.000000
+[2020.12.06-03.51.29:014][536]LogTemp: Warning: Aiming angle is : P=89.519089 Y=-11.185027 R=0.000000
+[2020.12.06-03.51.29:033][538]LogTemp: Warning: Aiming angle is : P=-10.229699 Y=-11.189651 R=0.000000
+[2020.12.06-03.51.29:048][540]LogTemp: Warning: Aiming angle is : P=-10.482551 Y=-11.059106 R=0.000000
+[2020.12.06-03.51.29:067][542]LogTemp: Warning: Aiming angle is : P=89.596016 Y=-10.904152 R=0.000000
+[2020.12.06-03.51.29:077][543]LogTemp: Warning: Aiming angle is : P=-10.820679 Y=-10.782788 R=0.000000
+[2020.12.06-03.51.29:085][544]LogTemp: Warning: Aiming angle is : P=-10.911679 Y=-10.554542 R=0.000000
+[2020.12.06-03.51.29:093][545]LogTemp: Warning: Aiming angle is : P=-11.014950 Y=-10.396941 R=0.000000
+[2020.12.06-03.51.29:145][551]LogTemp: Warning: Aiming angle is : P=-11.197501 Y=-9.770203 R=0.000000
+[2020.12.06-03.51.29:153][552]LogTemp: Warning: Aiming angle is : P=89.616776 Y=-9.591389 R=0.000000
+[2020.12.06-03.51.29:162][553]LogTemp: Warning: Aiming angle is : P=89.614136 Y=-9.526769 R=0.000000
+[2020.12.06-03.51.29:171][554]LogTemp: Warning: Aiming angle is : P=-11.163729 Y=-9.263960 R=0.000000
+[2020.12.06-03.51.29:179][555]LogTemp: Warning: Aiming angle is : P=89.610519 Y=-9.178820 R=0.000000
+[2020.12.06-03.51.29:196][557]LogTemp: Warning: Aiming angle is : P=-10.998280 Y=-8.747585 R=0.000000
+[2020.12.06-03.51.29:204][558]LogTemp: Warning: Aiming angle is : P=-10.911036 Y=-8.650343 R=0.000000
+[2020.12.06-03.51.29:214][559]LogTemp: Warning: Aiming angle is : P=-10.894366 Y=-8.555936 R=0.000000
+[2020.12.06-03.51.29:231][561]LogTemp: Warning: Aiming angle is : P=-10.802655 Y=-8.278369 R=0.000000
+[2020.12.06-03.51.29:249][563]LogTemp: Warning: Aiming angle is : P=-10.684628 Y=-8.021012 R=0.000000
+[2020.12.06-03.51.29:266][565]LogTemp: Warning: Aiming angle is : P=-10.275822 Y=-7.638987 R=0.000000
+[2020.12.06-03.51.29:276][566]LogTemp: Warning: Aiming angle is : P=-10.044639 Y=-7.427455 R=0.000000
+[2020.12.06-03.51.29:285][567]LogTemp: Warning: Aiming angle is : P=-9.673161 Y=-7.053423 R=0.000000
+[2020.12.06-03.51.29:301][569]LogTemp: Warning: Aiming angle is : P=89.476669 Y=-6.583168 R=0.000000
+[2020.12.06-03.51.29:310][570]LogTemp: Warning: Aiming angle is : P=89.452240 Y=-6.259874 R=0.000000
+[2020.12.06-03.51.29:339][573]LogTemp: Warning: Aiming angle is : P=-7.539283 Y=-5.516130 R=0.000000
+[2020.12.06-03.51.29:348][574]LogTemp: Warning: Aiming angle is : P=-6.965865 Y=-5.142927 R=0.000000
+[2020.12.06-03.51.29:357][575]LogTemp: Warning: Aiming angle is : P=-6.643865 Y=-4.948552 R=0.000000
+[2020.12.06-03.51.29:368][576]LogTemp: Warning: Aiming angle is : P=89.271027 Y=-4.945566 R=0.000000
+[2020.12.06-03.51.29:396][579]LogTemp: Warning: Aiming angle is : P=-5.317763 Y=-4.458688 R=0.000000
+[2020.12.06-03.51.29:417][581]LogTemp: Warning: Aiming angle is : P=-4.920785 Y=-4.307123 R=0.000000
+[2020.12.06-03.51.29:444][584]LogTemp: Warning: Aiming angle is : P=-4.393237 Y=-4.031684 R=0.000000
+[2020.12.06-03.51.29:455][585]LogTemp: Warning: Aiming angle is : P=88.984612 Y=-3.898795 R=0.000000
+[2020.12.06-03.51.29:465][586]LogTemp: Warning: Aiming angle is : P=88.956070 Y=-3.827785 R=0.000000
+[2020.12.06-03.51.29:474][587]LogTemp: Warning: Aiming angle is : P=-3.916180 Y=-3.719560 R=0.000000
+[2020.12.06-03.51.29:486][588]LogTemp: Warning: Aiming angle is : P=-3.782846 Y=-3.676023 R=0.000000
+[2020.12.06-03.51.29:503][590]LogTemp: Warning: Aiming angle is : P=-2.996045 Y=-3.363083 R=0.000000
+[2020.12.06-03.51.29:544][594]LogTemp: Warning: Aiming angle is : P=87.653694 Y=-2.884157 R=0.000000
+[2020.12.06-03.51.29:555][595]LogTemp: Warning: Aiming angle is : P=86.403267 Y=-2.616697 R=0.000000
+[2020.12.06-03.51.29:572][597]LogTemp: Warning: Aiming angle is : P=13.881780 Y=-2.228346 R=0.000000
+[2020.12.06-03.51.30:029][649]LogTemp: Warning: Aiming angle is : P=18.644629 Y=-25.792803 R=0.000000
+[2020.12.06-03.51.30:039][650]LogTemp: Warning: Aiming angle is : P=76.912994 Y=-26.981007 R=0.000000
+[2020.12.06-03.51.30:048][651]LogTemp: Warning: Aiming angle is : P=81.191414 Y=-28.251516 R=0.000000
+[2020.12.06-03.51.30:066][653]LogTemp: Warning: Aiming angle is : P=3.946903 Y=-31.337122 R=0.000000
+[2020.12.06-03.51.30:077][654]LogTemp: Warning: Aiming angle is : P=85.916458 Y=-32.896072 R=0.000000
+[2020.12.06-03.51.30:096][656]LogTemp: Warning: Aiming angle is : P=1.530655 Y=-36.520405 R=0.000000
+[2020.12.06-03.51.30:105][657]LogTemp: Warning: Aiming angle is : P=1.182322 Y=-38.021797 R=0.000000
+[2020.12.06-03.51.30:116][658]LogTemp: Warning: Aiming angle is : P=0.949703 Y=-38.988403 R=0.000000
+[2020.12.06-03.51.30:127][659]LogTemp: Warning: Aiming angle is : P=87.341644 Y=-39.850201 R=0.000000
+[2020.12.06-03.51.30:135][660]LogTemp: Warning: Aiming angle is : P=0.586558 Y=-40.871338 R=0.000000
+[2020.12.06-03.51.30:153][662]LogTemp: Warning: Aiming angle is : P=0.483740 Y=-41.951038 R=0.000000
+[2020.12.06-03.51.30:174][664]LogTemp: Warning: Aiming angle is : P=0.432122 Y=-42.766327 R=0.000000
+[2020.12.06-03.51.30:185][665]LogTemp: Warning: Aiming angle is : P=87.590576 Y=-43.761757 R=0.000000
+[2020.12.06-03.51.30:196][666]LogTemp: Warning: Aiming angle is : P=87.645615 Y=-44.537384 R=0.000000
+[2020.12.06-03.51.30:217][668]LogTemp: Warning: Aiming angle is : P=-0.109912 Y=-46.946445 R=0.000000
+[2020.12.06-03.51.30:226][669]LogTemp: Warning: Aiming angle is : P=87.861565 Y=-48.678524 R=0.000000
+[2020.12.06-03.51.30:238][670]LogTemp: Warning: Aiming angle is : P=87.906349 Y=-49.639877 R=0.000000
+[2020.12.06-03.51.30:251][671]LogTemp: Warning: Aiming angle is : P=88.003799 Y=-51.769783 R=0.000000
+[2020.12.06-03.51.30:260][672]LogTemp: Warning: Aiming angle is : P=-0.744072 Y=-53.479565 R=0.000000
+[2020.12.06-03.51.30:278][674]LogTemp: Warning: Aiming angle is : P=-1.147710 Y=-56.130505 R=0.000000
+[2020.12.06-03.51.30:300][676]LogTemp: Warning: Aiming angle is : P=88.333290 Y=-58.011074 R=0.000000
+[2020.12.06-03.51.30:312][677]LogTemp: Warning: Aiming angle is : P=88.425285 Y=-59.801895 R=0.000000
+[2020.12.06-03.51.30:320][678]LogTemp: Warning: Aiming angle is : P=-1.904365 Y=-61.323124 R=0.000000
+[2020.12.06-03.51.30:331][679]LogTemp: Warning: Aiming angle is : P=-2.024707 Y=-62.046173 R=0.000000
+[2020.12.06-03.51.30:350][681]LogTemp: Warning: Aiming angle is : P=-2.178971 Y=-63.045135 R=0.000000
+[2020.12.06-03.51.30:377][684]LogTemp: Warning: Aiming angle is : P=-2.178669 Y=-63.044781 R=0.000000
+[2020.12.06-03.51.30:388][685]LogTemp: Warning: Aiming angle is : P=-2.178669 Y=-63.044781 R=0.000000
+[2020.12.06-03.51.30:396][686]LogTemp: Warning: Aiming angle is : P=88.578239 Y=-63.100452 R=0.000000
+[2020.12.06-03.51.30:417][688]LogTemp: Warning: Aiming angle is : P=-2.175711 Y=-63.118294 R=0.000000
+[2020.12.06-03.51.30:425][689]LogTemp: Warning: Aiming angle is : P=-2.175711 Y=-63.118294 R=0.000000
+[2020.12.06-03.51.30:451][692]LogTemp: Warning: Aiming angle is : P=88.564445 Y=-63.151981 R=0.000000
+[2020.12.06-03.51.30:459][693]LogTemp: Warning: Aiming angle is : P=-2.126401 Y=-63.225296 R=0.000000
+[2020.12.06-03.51.30:468][694]LogTemp: Warning: Aiming angle is : P=88.550766 Y=-63.215118 R=0.000000
+[2020.12.06-03.51.30:485][696]LogTemp: Warning: Aiming angle is : P=-1.558384 Y=-62.864033 R=0.000000
+[2020.12.06-03.51.30:493][697]LogTemp: Warning: Aiming angle is : P=-1.094881 Y=-62.332439 R=0.000000
+[2020.12.06-03.51.30:502][698]LogTemp: Warning: Aiming angle is : P=87.957924 Y=-61.668865 R=0.000000
+[2020.12.06-03.51.30:512][699]LogTemp: Warning: Aiming angle is : P=0.288535 Y=-60.990784 R=0.000000
+[2020.12.06-03.51.30:520][700]LogTemp: Warning: Aiming angle is : P=86.621460 Y=-60.007553 R=0.000000
+[2020.12.06-03.51.30:529][701]LogTemp: Warning: Aiming angle is : P=3.636711 Y=-59.306038 R=0.000000
+[2020.12.06-03.51.30:539][702]LogTemp: Warning: Aiming angle is : P=81.558044 Y=-58.546410 R=0.000000
+[2020.12.06-03.51.30:548][703]LogTemp: Warning: Aiming angle is : P=11.276317 Y=-58.272068 R=0.000000
+[2020.12.06-03.51.30:555][704]LogTemp: Warning: Aiming angle is : P=78.095451 Y=-58.246906 R=0.000000
+[2020.12.06-03.51.30:573][706]LogTemp: Warning: Aiming angle is : P=76.780945 Y=-58.172813 R=0.000000
+[2020.12.06-03.51.30:582][707]LogTemp: Warning: Aiming angle is : P=76.063362 Y=-58.020214 R=0.000000
+[2020.12.06-03.51.30:598][709]LogTemp: Warning: Aiming angle is : P=23.074713 Y=-58.101730 R=0.000000
+[2020.12.06-03.51.31:105][769]LogTemp: Warning: Aiming angle is : P=24.706194 Y=-65.154205 R=0.000000
+[2020.12.06-03.51.31:114][770]LogTemp: Warning: Aiming angle is : P=73.813393 Y=-64.666527 R=0.000000
+[2020.12.06-03.51.31:123][771]LogTemp: Warning: Aiming angle is : P=74.222954 Y=-64.059921 R=0.000000
+[2020.12.06-03.51.31:131][772]LogTemp: Warning: Aiming angle is : P=22.561722 Y=-63.465561 R=0.000000
+[2020.12.06-03.51.31:158][775]LogTemp: Warning: Aiming angle is : P=20.491478 Y=-61.677547 R=0.000000
+[2020.12.06-03.51.31:166][776]LogTemp: Warning: Aiming angle is : P=75.936951 Y=-60.500725 R=0.000000
+[2020.12.06-03.51.31:175][777]LogTemp: Warning: Aiming angle is : P=76.133949 Y=-59.604202 R=0.000000
+[2020.12.06-03.51.31:187][778]LogTemp: Warning: Aiming angle is : P=17.875351 Y=-58.601025 R=0.000000
+[2020.12.06-03.51.31:202][780]LogTemp: Warning: Aiming angle is : P=14.625592 Y=-55.517143 R=0.000000
+[2020.12.06-03.51.31:546][821]LogTemp: Warning: Aiming angle is : P=12.763906 Y=-54.708591 R=0.000000
+[2020.12.06-03.51.31:555][822]LogTemp: Warning: Aiming angle is : P=12.773040 Y=-54.659275 R=0.000000
+[2020.12.06-03.51.31:563][823]LogTemp: Warning: Aiming angle is : P=78.006401 Y=-54.587414 R=0.000000
+[2020.12.06-03.51.31:599][827]LogTemp: Warning: Aiming angle is : P=77.601372 Y=-54.184811 R=0.000000
+[2020.12.06-03.51.31:607][828]LogTemp: Warning: Aiming angle is : P=77.443039 Y=-53.821983 R=0.000000
+[2020.12.06-03.51.31:616][829]LogTemp: Warning: Aiming angle is : P=14.649951 Y=-53.389114 R=0.000000
+[2020.12.06-03.51.31:625][830]LogTemp: Warning: Aiming angle is : P=76.697273 Y=-52.549637 R=0.000000
+[2020.12.06-03.51.31:634][831]LogTemp: Warning: Aiming angle is : P=16.504456 Y=-51.644840 R=0.000000
+[2020.12.06-03.51.31:642][832]LogTemp: Warning: Aiming angle is : P=75.280838 Y=-50.533119 R=0.000000
+[2020.12.06-03.51.31:651][833]LogTemp: Warning: Aiming angle is : P=74.613724 Y=-49.249352 R=0.000000
+[2020.12.06-03.51.31:676][836]LogTemp: Warning: Aiming angle is : P=72.998917 Y=-44.492981 R=0.000000
+[2020.12.06-03.51.31:686][837]LogTemp: Warning: Aiming angle is : P=22.794739 Y=-42.878586 R=0.000000
+[2020.12.06-03.51.31:694][838]LogTemp: Warning: Aiming angle is : P=72.028625 Y=-40.874920 R=0.000000
+[2020.12.06-03.51.31:703][839]LogTemp: Warning: Aiming angle is : P=71.488472 Y=-38.964340 R=0.000000
+[2020.12.06-03.51.31:711][840]LogTemp: Warning: Aiming angle is : P=70.833328 Y=-37.142876 R=0.000000
+[2020.12.06-03.51.31:720][841]LogTemp: Warning: Aiming angle is : P=69.932053 Y=-35.255543 R=0.000000
+[2020.12.06-03.51.31:728][842]LogTemp: Warning: Aiming angle is : P=67.911324 Y=-32.818779 R=0.000000
+[2020.12.06-03.51.32:138][888]LogTemp: Warning: Aiming angle is : P=84.580856 Y=-2.239560 R=0.000000
+[2020.12.06-03.51.32:147][889]LogTemp: Warning: Aiming angle is : P=87.853180 Y=-3.123029 R=0.000000
+[2020.12.06-03.51.32:167][891]LogTemp: Warning: Aiming angle is : P=88.807434 Y=-3.368915 R=0.000000
+[2020.12.06-03.51.32:176][892]LogTemp: Warning: Aiming angle is : P=89.055817 Y=-3.194038 R=0.000000
+[2020.12.06-03.51.32:186][893]LogTemp: Warning: Aiming angle is : P=-5.754104 Y=-2.833442 R=0.000000
+[2020.12.06-03.51.32:221][897]LogTemp: Warning: Aiming angle is : P=89.664246 Y=-1.454528 R=0.000000
+[2020.12.06-03.51.32:229][898]LogTemp: Warning: Aiming angle is : P=89.727570 Y=-1.746736 R=0.000000
+[2020.12.06-03.51.32:237][899]LogTemp: Warning: Aiming angle is : P=-15.412234 Y=-2.263858 R=0.000000
+[2020.12.06-03.51.32:246][900]LogTemp: Warning: Aiming angle is : P=89.801620 Y=-2.992350 R=0.000000
+[2020.12.06-03.51.32:255][901]LogTemp: Warning: Aiming angle is : P=89.828888 Y=-3.960898 R=0.000000
+[2020.12.06-03.51.32:271][903]LogTemp: Warning: Aiming angle is : P=89.867020 Y=-7.211797 R=0.000000
+[2020.12.06-03.51.32:289][905]LogTemp: Warning: Aiming angle is : P=-26.677256 Y=-10.526281 R=0.000000
+[2020.12.06-03.51.32:297][906]LogTemp: Warning: Aiming angle is : P=89.899559 Y=-13.182208 R=0.000000
+[2020.12.06-03.51.32:306][907]LogTemp: Warning: Aiming angle is : P=-29.834269 Y=-14.981206 R=0.000000
+[2020.12.06-03.51.32:324][909]LogTemp: Warning: Aiming angle is : P=89.909523 Y=-19.143877 R=0.000000
+[2020.12.06-03.51.32:332][910]LogTemp: Warning: Aiming angle is : P=89.910431 Y=-20.955534 R=0.000000
+[2020.12.06-03.51.32:339][911]LogTemp: Warning: Aiming angle is : P=-32.030315 Y=-22.702030 R=0.000000
+[2020.12.06-03.51.32:348][912]LogTemp: Warning: Aiming angle is : P=89.910606 Y=-24.349264 R=0.000000
+[2020.12.06-03.51.32:357][913]LogTemp: Warning: Aiming angle is : P=89.909615 Y=-25.898455 R=0.000000
+[2020.12.06-03.51.32:392][917]LogTemp: Warning: Aiming angle is : P=89.905037 Y=-32.416706 R=0.000000
+[2020.12.06-03.51.32:400][918]LogTemp: Warning: Aiming angle is : P=89.904442 Y=-33.430817 R=0.000000
+[2020.12.06-03.51.32:409][919]LogTemp: Warning: Aiming angle is : P=89.902931 Y=-34.082531 R=0.000000
+[2020.12.06-03.51.32:417][920]LogTemp: Warning: Aiming angle is : P=-30.719902 Y=-34.652885 R=0.000000
+[2020.12.06-03.51.32:426][921]LogTemp: Warning: Aiming angle is : P=89.902664 Y=-35.347401 R=0.000000
+[2020.12.06-03.51.32:435][922]LogTemp: Warning: Aiming angle is : P=-30.689589 Y=-35.713234 R=0.000000
+[2020.12.06-03.51.32:443][923]LogTemp: Warning: Aiming angle is : P=89.901779 Y=-36.698868 R=0.000000
+[2020.12.06-03.51.32:452][924]LogTemp: Warning: Aiming angle is : P=-30.702696 Y=-37.873447 R=0.000000
+[2020.12.06-03.51.32:461][925]LogTemp: Warning: Aiming angle is : P=89.902191 Y=-39.075344 R=0.000000
+[2020.12.06-03.51.32:471][926]LogTemp: Warning: Aiming angle is : P=89.902596 Y=-40.711807 R=0.000000
+[2020.12.06-03.51.32:479][927]LogTemp: Warning: Aiming angle is : P=-31.260168 Y=-43.198616 R=0.000000
+[2020.12.06-03.51.32:495][929]LogTemp: Warning: Aiming angle is : P=-31.254253 Y=-47.433823 R=0.000000
+[2020.12.06-03.51.32:505][930]LogTemp: Warning: Aiming angle is : P=-31.293831 Y=-49.337704 R=0.000000
+[2020.12.06-03.51.32:521][932]LogTemp: Warning: Aiming angle is : P=89.899307 Y=-54.058971 R=0.000000
+[2020.12.06-03.51.32:530][933]LogTemp: Warning: Aiming angle is : P=-30.387537 Y=-56.049377 R=0.000000
+[2020.12.06-03.51.32:547][935]LogTemp: Warning: Aiming angle is : P=-29.306768 Y=-60.527466 R=0.000000
+[2020.12.06-03.51.32:556][936]LogTemp: Warning: Aiming angle is : P=-28.825941 Y=-62.868336 R=0.000000
+[2020.12.06-03.51.32:566][937]LogTemp: Warning: Aiming angle is : P=89.885056 Y=-64.131760 R=0.000000
+[2020.12.06-03.51.32:583][939]LogTemp: Warning: Aiming angle is : P=-27.034754 Y=-68.102364 R=0.000000
+[2020.12.06-03.51.32:592][940]LogTemp: Warning: Aiming angle is : P=89.873055 Y=-69.160118 R=0.000000
+[2020.12.06-03.51.32:601][941]LogTemp: Warning: Aiming angle is : P=-26.059320 Y=-70.154961 R=0.000000
+[2020.12.06-03.51.32:618][943]LogTemp: Warning: Aiming angle is : P=89.862923 Y=-71.402725 R=0.000000
+[2020.12.06-03.51.32:636][945]LogTemp: Warning: Aiming angle is : P=89.859207 Y=-71.967102 R=0.000000
+[2020.12.06-03.51.32:644][946]LogTemp: Warning: Aiming angle is : P=89.858467 Y=-71.958130 R=0.000000
+[2020.12.06-03.51.32:652][947]LogTemp: Warning: Aiming angle is : P=-24.616674 Y=-72.128632 R=0.000000
+[2020.12.06-03.51.32:661][948]LogTemp: Warning: Aiming angle is : P=-24.616674 Y=-72.128632 R=0.000000
+[2020.12.06-03.51.32:669][949]LogTemp: Warning: Aiming angle is : P=-24.516911 Y=-72.021576 R=0.000000
+[2020.12.06-03.51.32:678][950]LogTemp: Warning: Aiming angle is : P=89.857124 Y=-71.926361 R=0.000000
+[2020.12.06-03.51.32:687][951]LogTemp: Warning: Aiming angle is : P=-24.463396 Y=-71.880600 R=0.000000
+[2020.12.06-03.51.32:694][952]LogTemp: Warning: Aiming angle is : P=89.856285 Y=-72.026581 R=0.000000
+[2020.12.06-03.51.32:702][953]LogTemp: Warning: Aiming angle is : P=89.856682 Y=-72.104462 R=0.000000
+[2020.12.06-03.51.32:714][954]LogTemp: Warning: Aiming angle is : P=89.855812 Y=-71.997681 R=0.000000
+[2020.12.06-03.51.32:721][955]LogTemp: Warning: Aiming angle is : P=-24.273834 Y=-72.406860 R=0.000000
+[2020.12.06-03.51.32:729][956]LogTemp: Warning: Aiming angle is : P=-24.130608 Y=-72.349548 R=0.000000
+[2020.12.06-03.51.32:747][958]LogTemp: Warning: Aiming angle is : P=-23.618902 Y=-72.235382 R=0.000000
+[2020.12.06-03.51.32:755][959]LogTemp: Warning: Aiming angle is : P=-23.332445 Y=-72.093613 R=0.000000
+[2020.12.06-03.51.32:783][962]LogTemp: Warning: Aiming angle is : P=89.836678 Y=-71.178482 R=0.000000
+[2020.12.06-03.51.32:791][963]LogTemp: Warning: Aiming angle is : P=-22.011328 Y=-70.862755 R=0.000000
+[2020.12.06-03.51.32:800][964]LogTemp: Warning: Aiming angle is : P=89.829056 Y=-70.501961 R=0.000000
+[2020.12.06-03.51.32:842][969]LogTemp: Warning: Aiming angle is : P=-20.371208 Y=-68.897255 R=0.000000
+[2020.12.06-03.51.32:859][971]LogTemp: Warning: Aiming angle is : P=-19.670319 Y=-67.849754 R=0.000000
+[2020.12.06-03.51.32:868][972]LogTemp: Warning: Aiming angle is : P=89.793587 Y=-67.397667 R=0.000000
+[2020.12.06-03.51.32:876][973]LogTemp: Warning: Aiming angle is : P=89.786964 Y=-67.233521 R=0.000000
+[2020.12.06-03.51.32:895][975]LogTemp: Warning: Aiming angle is : P=-17.748713 Y=-66.093315 R=0.000000
+[2020.12.06-03.51.32:903][976]LogTemp: Warning: Aiming angle is : P=-17.296833 Y=-65.494926 R=0.000000
+[2020.12.06-03.51.32:912][977]LogTemp: Warning: Aiming angle is : P=89.746559 Y=-65.035042 R=0.000000
+[2020.12.06-03.51.32:921][978]LogTemp: Warning: Aiming angle is : P=-16.360918 Y=-64.310883 R=0.000000
+[2020.12.06-03.51.32:938][980]LogTemp: Warning: Aiming angle is : P=89.704498 Y=-62.630985 R=0.000000
+[2020.12.06-03.51.32:948][981]LogTemp: Warning: Aiming angle is : P=-14.316236 Y=-61.533260 R=0.000000
+[2020.12.06-03.51.32:956][982]LogTemp: Warning: Aiming angle is : P=89.664619 Y=-60.531170 R=0.000000
+[2020.12.06-03.51.32:965][983]LogTemp: Warning: Aiming angle is : P=-12.494505 Y=-58.933975 R=0.000000
+[2020.12.06-03.51.32:973][984]LogTemp: Warning: Aiming angle is : P=-11.751048 Y=-57.964314 R=0.000000
+[2020.12.06-03.51.32:981][985]LogTemp: Warning: Aiming angle is : P=-11.031092 Y=-56.984749 R=0.000000
+[2020.12.06-03.51.33:000][987]LogTemp: Warning: Aiming angle is : P=89.485413 Y=-55.482285 R=0.000000
+[2020.12.06-03.51.33:008][988]LogTemp: Warning: Aiming angle is : P=-8.457794 Y=-54.796261 R=0.000000
+[2020.12.06-03.51.33:026][990]LogTemp: Warning: Aiming angle is : P=89.354797 Y=-53.760715 R=0.000000
+[2020.12.06-03.51.33:034][991]LogTemp: Warning: Aiming angle is : P=-6.568722 Y=-53.304726 R=0.000000
+[2020.12.06-03.51.33:051][993]LogTemp: Warning: Aiming angle is : P=89.172005 Y=-52.502144 R=0.000000
+[2020.12.06-03.51.33:061][994]LogTemp: Warning: Aiming angle is : P=-4.668240 Y=-52.106541 R=0.000000
+[2020.12.06-03.51.33:069][995]LogTemp: Warning: Aiming angle is : P=-3.690728 Y=-51.699562 R=0.000000
+[2020.12.06-03.51.33:078][996]LogTemp: Warning: Aiming angle is : P=-3.102611 Y=-51.432659 R=0.000000
+[2020.12.06-03.51.33:095][998]LogTemp: Warning: Aiming angle is : P=-2.212375 Y=-50.837845 R=0.000000
+[2020.12.06-03.51.33:104][999]LogTemp: Warning: Aiming angle is : P=-1.902431 Y=-50.678959 R=0.000000
+[2020.12.06-03.51.33:111][  0]LogTemp: Warning: Aiming angle is : P=-1.711011 Y=-50.567673 R=0.000000
+[2020.12.06-03.51.33:120][  1]LogTemp: Warning: Aiming angle is : P=-1.562678 Y=-50.570011 R=0.000000
+[2020.12.06-03.51.33:130][  2]LogTemp: Warning: Aiming angle is : P=88.332352 Y=-50.425755 R=0.000000
+[2020.12.06-03.51.33:146][  4]LogTemp: Warning: Aiming angle is : P=88.248573 Y=-50.338139 R=0.000000
+[2020.12.06-03.51.33:179][  8]LogTemp: Warning: Aiming angle is : P=88.207947 Y=-50.322266 R=0.000000
+[2020.12.06-03.51.33:187][  9]LogTemp: Warning: Aiming angle is : P=88.207947 Y=-50.322266 R=0.000000
+[2020.12.06-03.51.33:196][ 10]LogTemp: Warning: Aiming angle is : P=88.207947 Y=-50.322266 R=0.000000
+[2020.12.06-03.51.33:205][ 11]LogTemp: Warning: Aiming angle is : P=-1.065701 Y=-50.352261 R=0.000000
+[2020.12.06-03.51.33:213][ 12]LogTemp: Warning: Aiming angle is : P=-1.019339 Y=-50.460655 R=0.000000
+[2020.12.06-03.51.33:223][ 13]LogTemp: Warning: Aiming angle is : P=-1.026145 Y=-50.648853 R=0.000000
+[2020.12.06-03.51.33:231][ 14]LogTemp: Warning: Aiming angle is : P=88.171036 Y=-50.879383 R=0.000000
+[2020.12.06-03.51.33:241][ 15]LogTemp: Warning: Aiming angle is : P=88.175323 Y=-51.163021 R=0.000000
+[2020.12.06-03.51.33:249][ 16]LogTemp: Warning: Aiming angle is : P=88.181114 Y=-51.855721 R=0.000000
+[2020.12.06-03.51.33:258][ 17]LogTemp: Warning: Aiming angle is : P=-1.013265 Y=-52.295815 R=0.000000
+[2020.12.06-03.51.33:267][ 18]LogTemp: Warning: Aiming angle is : P=-1.036841 Y=-52.920509 R=0.000000
+[2020.12.06-03.51.33:275][ 19]LogTemp: Warning: Aiming angle is : P=-1.103246 Y=-53.603836 R=0.000000
+[2020.12.06-03.51.33:284][ 20]LogTemp: Warning: Aiming angle is : P=-1.178316 Y=-54.650227 R=0.000000
+[2020.12.06-03.51.33:292][ 21]LogTemp: Warning: Aiming angle is : P=-1.243403 Y=-55.629768 R=0.000000
+[2020.12.06-03.51.33:300][ 22]LogTemp: Warning: Aiming angle is : P=-1.355217 Y=-56.807114 R=0.000000
+[2020.12.06-03.51.33:311][ 23]LogTemp: Warning: Aiming angle is : P=-1.416080 Y=-57.995747 R=0.000000
+[2020.12.06-03.51.33:318][ 24]LogTemp: Warning: Aiming angle is : P=-1.480571 Y=-59.678528 R=0.000000
+[2020.12.06-03.51.33:327][ 25]LogTemp: Warning: Aiming angle is : P=-1.582146 Y=-60.931843 R=0.000000
+[2020.12.06-03.51.33:347][ 27]LogTemp: Warning: Aiming angle is : P=-1.743643 Y=-64.744461 R=0.000000
+[2020.12.06-03.51.33:358][ 28]LogTemp: Warning: Aiming angle is : P=88.471710 Y=-65.898743 R=0.000000
+[2020.12.06-03.51.33:386][ 31]LogTemp: Warning: Aiming angle is : P=88.547096 Y=-70.668419 R=0.000000
+[2020.12.06-03.51.33:396][ 32]LogTemp: Warning: Aiming angle is : P=-2.200102 Y=-72.061226 R=0.000000
+[2020.12.06-03.51.33:405][ 33]LogTemp: Warning: Aiming angle is : P=-2.424220 Y=-74.308456 R=0.000000
+[2020.12.06-03.51.33:424][ 35]LogTemp: Warning: Aiming angle is : P=88.770958 Y=-78.070930 R=0.000000
+[2020.12.06-03.51.33:436][ 36]LogTemp: Warning: Aiming angle is : P=88.803757 Y=-79.246986 R=0.000000
+[2020.12.06-03.51.33:443][ 37]LogTemp: Warning: Aiming angle is : P=-3.274852 Y=-80.529144 R=0.000000
+[2020.12.06-03.51.33:451][ 38]LogTemp: Warning: Aiming angle is : P=88.894356 Y=-81.629272 R=0.000000
+[2020.12.06-03.51.33:460][ 39]LogTemp: Warning: Aiming angle is : P=88.923851 Y=-82.622673 R=0.000000
+[2020.12.06-03.51.33:469][ 40]LogTemp: Warning: Aiming angle is : P=-3.829902 Y=-83.459610 R=0.000000
+[2020.12.06-03.51.33:478][ 41]LogTemp: Warning: Aiming angle is : P=-4.070926 Y=-84.483223 R=0.000000
+[2020.12.06-03.51.33:486][ 42]LogTemp: Warning: Aiming angle is : P=89.024849 Y=-85.398399 R=0.000000
+[2020.12.06-03.51.33:495][ 43]LogTemp: Warning: Aiming angle is : P=-4.470109 Y=-86.138397 R=0.000000
+[2020.12.06-03.51.33:504][ 44]LogTemp: Warning: Aiming angle is : P=89.085152 Y=-86.862724 R=0.000000
+[2020.12.06-03.51.33:512][ 45]LogTemp: Warning: Aiming angle is : P=89.126556 Y=-87.995430 R=0.000000
+[2020.12.06-03.51.33:521][ 46]LogTemp: Warning: Aiming angle is : P=89.154266 Y=-88.766380 R=0.000000
+[2020.12.06-03.51.33:529][ 47]LogTemp: Warning: Aiming angle is : P=89.184326 Y=-89.680450 R=0.000000
+[2020.12.06-03.51.33:548][ 49]LogTemp: Warning: Aiming angle is : P=-6.019165 Y=-91.611450 R=0.000000
+[2020.12.06-03.51.33:564][ 51]LogTemp: Warning: Aiming angle is : P=-6.397429 Y=-92.940598 R=0.000000
+[2020.12.06-03.51.33:590][ 54]LogTemp: Warning: Aiming angle is : P=-6.575415 Y=-93.514275 R=0.000000
+[2020.12.06-03.51.33:623][ 58]LogTemp: Warning: Aiming angle is : P=-6.732213 Y=-93.651482 R=0.000000
+[2020.12.06-03.51.33:640][ 60]LogTemp: Warning: Aiming angle is : P=89.325691 Y=-93.612862 R=0.000000
+[2020.12.06-03.51.33:650][ 61]LogTemp: Warning: Aiming angle is : P=-6.953650 Y=-93.515053 R=0.000000
+[2020.12.06-03.51.33:668][ 63]LogTemp: Warning: Aiming angle is : P=89.351372 Y=-92.603378 R=0.000000
+[2020.12.06-03.51.33:675][ 64]LogTemp: Warning: Aiming angle is : P=89.358803 Y=-91.909431 R=0.000000
+[2020.12.06-03.51.33:684][ 65]LogTemp: Warning: Aiming angle is : P=-7.428934 Y=-91.009079 R=0.000000
+[2020.12.06-03.51.33:693][ 66]LogTemp: Warning: Aiming angle is : P=-7.560908 Y=-90.016136 R=0.000000
+[2020.12.06-03.51.33:700][ 67]LogTemp: Warning: Aiming angle is : P=89.388130 Y=-88.471542 R=0.000000
+[2020.12.06-03.51.33:718][ 69]LogTemp: Warning: Aiming angle is : P=-7.906798 Y=-84.618507 R=0.000000
+[2020.12.06-03.51.33:726][ 70]LogTemp: Warning: Aiming angle is : P=89.408073 Y=-82.493317 R=0.000000
+[2020.12.06-03.51.33:743][ 72]LogTemp: Warning: Aiming angle is : P=-8.138064 Y=-77.422333 R=0.000000
+[2020.12.06-03.51.33:752][ 73]LogTemp: Warning: Aiming angle is : P=89.418747 Y=-75.225708 R=0.000000
+[2020.12.06-03.51.33:761][ 74]LogTemp: Warning: Aiming angle is : P=-8.248450 Y=-73.380898 R=0.000000
+[2020.12.06-03.51.33:769][ 75]LogTemp: Warning: Aiming angle is : P=89.428741 Y=-71.578171 R=0.000000
+[2020.12.06-03.51.33:786][ 77]LogTemp: Warning: Aiming angle is : P=89.429199 Y=-69.660072 R=0.000000
+[2020.12.06-03.51.33:796][ 78]LogTemp: Warning: Aiming angle is : P=-8.400499 Y=-69.190125 R=0.000000
+[2020.12.06-03.51.33:803][ 79]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:812][ 80]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:820][ 81]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:829][ 82]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:837][ 83]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:845][ 84]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:854][ 85]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:862][ 86]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:873][ 87]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:881][ 88]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:889][ 89]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:899][ 90]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:907][ 91]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:915][ 92]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:923][ 93]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:933][ 94]LogTemp: Warning: Aiming angle is : P=89.432510 Y=-69.100700 R=0.000000
+[2020.12.06-03.51.33:941][ 95]LogTemp: Warning: Aiming angle is : P=89.433060 Y=-69.024170 R=0.000000
+[2020.12.06-03.51.33:958][ 97]LogTemp: Warning: Aiming angle is : P=89.440765 Y=-68.519768 R=0.000000
+[2020.12.06-03.51.33:966][ 98]LogTemp: Warning: Aiming angle is : P=-8.625686 Y=-68.132919 R=0.000000
+[2020.12.06-03.51.33:977][ 99]LogTemp: Warning: Aiming angle is : P=89.453880 Y=-67.681892 R=0.000000
+[2020.12.06-03.51.33:986][100]LogTemp: Warning: Aiming angle is : P=89.462471 Y=-66.774010 R=0.000000
+[2020.12.06-03.51.33:994][101]LogTemp: Warning: Aiming angle is : P=-9.157983 Y=-65.883522 R=0.000000
+[2020.12.06-03.51.34:012][103]LogTemp: Warning: Aiming angle is : P=89.496483 Y=-64.314117 R=0.000000
+[2020.12.06-03.51.34:020][104]LogTemp: Warning: Aiming angle is : P=-9.817626 Y=-63.551327 R=0.000000
+[2020.12.06-03.51.34:027][105]LogTemp: Warning: Aiming angle is : P=-10.006470 Y=-62.989632 R=0.000000
+[2020.12.06-03.51.34:037][106]LogTemp: Warning: Aiming angle is : P=89.526924 Y=-62.691597 R=0.000000
+[2020.12.06-03.51.34:046][107]LogTemp: Warning: Aiming angle is : P=89.535988 Y=-62.443226 R=0.000000
+[2020.12.06-03.51.34:054][108]LogTemp: Warning: Aiming angle is : P=-10.653803 Y=-62.124126 R=0.000000
+[2020.12.06-03.51.34:063][109]LogTemp: Warning: Aiming angle is : P=-10.785999 Y=-61.949799 R=0.000000
+[2020.12.06-03.51.34:071][110]LogTemp: Warning: Aiming angle is : P=-10.874889 Y=-61.799049 R=0.000000
+[2020.12.06-03.51.34:080][111]LogTemp: Warning: Aiming angle is : P=-10.905155 Y=-61.657406 R=0.000000
+[2020.12.06-03.51.34:223][128]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:231][129]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:240][130]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:248][131]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:256][132]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:264][133]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:273][134]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:282][135]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:290][136]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:298][137]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:306][138]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:316][139]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:324][140]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:332][141]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:340][142]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:350][143]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:358][144]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:365][145]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:374][146]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:382][147]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:390][148]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:400][149]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:407][150]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:416][151]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:424][152]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:432][153]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:443][154]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:450][155]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:458][156]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:467][157]LogTemp: Warning: Aiming angle is : P=-10.918201 Y=-61.503891 R=0.000000
+[2020.12.06-03.51.34:503][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.51.34:503][157]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_BattleGround
+[2020.12.06-03.51.34:503][157]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.51.34:504][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.51.34:511][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.06-03.51.34:514][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-03.51.34:530][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.06-03.51.34:531][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-03.51.34:532][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-03.51.34:547][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-03.51.34:552][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.06-03.51.34:570][158]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.06-03.52.50:225][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank_BP" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset" SILENT=true
+[2020.12.06-03.52.50:243][953]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Tank_BP63A20EDC4DFF34EA0DAA9195D4F24BF2.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset'
+[2020.12.06-03.52.50:251][953]AssetCheck: New page: Asset Save: Tank_BP
+[2020.12.06-03.52.50:252][953]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.06-03.52.50:747][  9]BlueprintLog: New page: Compile Tank_BP
+[2020.12.06-03.52.50:786][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.12.06-03.53.16:892][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.06-03.53.16:913][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.06-03.53.16:924][  6]LogSavePackage: Moving 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/MainMenu899BB2E249B9E144FC96E8B5E968F39B.tmp' to 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap'
+[2020.12.06-03.53.16:946][  6]AssetCheck: New page: Asset Save: MainMenu
+[2020.12.06-03.53.16:946][  6]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.12.06-03.53.20:074][372]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-03.53.20:074][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B7CAE00-4EF2-BF20-CFB8-D995075F4CED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14685802%2B%2B%2BUE4%2BRelease-4.26&UserID=076873184f71ee7fc95d94b2422a31ee%7Ce4c7f011b62140b19fae35853a378a0a%7C26b06a51-b6c3-4838-9011-c4d03bfd6727&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1acfe61feb0 [can pipeline])
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.173.28) port 443 (#0))
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.06-04.11.04:537][155]LogHttp: Warning: 000001ACC7050100: libcurl info message cache 7 (Closing connection 0)
+[2020.12.06-04.11.04:877][156]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B7CAE00-4EF2-BF20-CFB8-D995075F4CED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14685802%2B%2B%2BUE4%2BRelease-4.26&UserID=076873184f71ee7fc95d94b2422a31ee%7Ce4c7f011b62140b19fae35853a378a0a%7C26b06a51-b6c3-4838-9011-c4d03bfd6727&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.06-04.13.38:399][613]LogHotReload: New module detected: UE4Editor-BattleTank-0111.dll
+[2020.12.06-04.13.39:075][616]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.06-04.13.39:130][616]LogHotReload: Re-instancing Tank after hot-reload.
+[2020.12.06-04.13.39:196][616]LogHotReload: Re-instancing TankBarrel after hot-reload.
+[2020.12.06-04.13.39:341][616]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.06-04.15.09:785][616]LogStats: FPlatformStackWalk::StackWalkAndDump - 90.444 s
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: 
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: Ensure condition failed: bArchetypeReinstanced [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1656]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: Reinstancing non-actor (/Engine/Transient.World_2:PersistentLevel.Tank_BP_C_4.Barrel); failed to resolve archetype object - property values may be lost.
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: Stack: 
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0c11b29e UE4Editor-UnrealEd.dll!DispatchCheckVerify<bool,<lambda_a5eb161a2fd76e29bd372d77f3c243b4> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0b929d0f UE4Editor-UnrealEd.dll!ReplaceObjectHelper() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:1656]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0b927700 UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::ReplaceInstancesOfClass_Inner() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:2038]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0b9268a6 UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::ReplaceInstancesOfClass() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:1499]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0b92381e UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::ReinstanceInner() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:707]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffc0b923d6e UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::ReinstanceObjects() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp:781]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe9026af7 UE4Editor-HotReload.dll!FHotReloadModule::ReinstanceClass() [D:\Build\++UE4\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1258]
+[2020.12.06-04.15.09:791][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe9027139 UE4Editor-HotReload.dll!FHotReloadModule::ReinstanceClasses() [D:\Build\++UE4\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1244]
+[2020.12.06-04.15.09:792][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe901f3c6 UE4Editor-HotReload.dll!TBaseRawMethodDelegateInstance<0,FHotReloadModule,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:469]
+[2020.12.06-04.15.09:792][616]LogOutputDevice: Error: [Callstack] 0x00007ffc4c67d856 UE4Editor-CoreUObject.dll!UClassReplaceHotReloadClasses() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:842]
+[2020.12.06-04.15.09:792][616]LogOutputDevice: Error: [Callstack] 0x00007ffc4c662406 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:1002]
+[2020.12.06-04.15.09:792][616]LogOutputDevice: Error: [Callstack] 0x00007ffc4c591f05 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+[2020.12.06-04.15.09:792][616]LogOutputDevice: Error: [Callstack] 0x00007ffc167796fa UE4Editor-Core.dll!TMulticastDelegate<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::Broadcast() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:955]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffc167a0fc8 UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:508]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffc167a0048 UE4Editor-Core.dll!FModuleManager::LoadModule() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:342]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe901af47 UE4Editor-HotReload.dll!FHotReloadModule::DoHotReloadInternal() [D:\Build\++UE4\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:799]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe901ac48 UE4Editor-HotReload.dll!FHotReloadModule::DoHotReloadFromIDE() [D:\Build\++UE4\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1523]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffbe902c9b2 UE4Editor-HotReload.dll!FHotReloadModule::Tick() [D:\Build\++UE4\Sync\Engine\Source\Developer\HotReload\Private\HotReload.cpp:1467]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffc164fe738 UE4Editor-Core.dll!FTicker::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Containers\Ticker.cpp:95]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ff6edf7d03c UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5043]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ff6edf9113c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ff6edf9121a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ff6edfa527d UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ff6edfa7faa UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffc70997034 KERNEL32.DLL!UnknownFunction []
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: [Callstack] 0x00007ffc7269cec1 ntdll.dll!UnknownFunction []
+[2020.12.06-04.15.09:793][616]LogOutputDevice: Error: 

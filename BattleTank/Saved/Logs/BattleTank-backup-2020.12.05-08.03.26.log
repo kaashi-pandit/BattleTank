@@ -1,0 +1,836 @@
+﻿Log file open, 12/05/20 15:56:10
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BattleTank
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197616
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Found config from plugin[XGEController] C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14685802
+LogInit: Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14685802+++UE4+Release-4.26
+LogInit: Net CL: 14685802
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov  8 2020 07:07:38
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: K:/UE4.25/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:927][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.05-07.56.10:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.05-07.56.10:937][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.05-07.56.10:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.05-07.56.10:937][  0]LogHAL: Display: Platform has ~ 16 GB [17014837248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.05-07.56.10:937][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.05-07.56.10:937][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.05-07.56.10:938][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.05-07.56.10:939][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.05-07.56.10:939][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.05-07.56.10:939][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.05-07.56.10:939][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.05-07.56.10:939][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Config/Windows/Engine.ini]
+[2020.12.05-07.56.10:939][  0]LogInit: Computer: DESKTOP-TLTKENT
+[2020.12.05-07.56.10:939][  0]LogInit: User: PiyushPandey
+[2020.12.05-07.56.10:939][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.05-07.56.10:939][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.05-07.56.10:939][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.05-07.56.10:939][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.05-07.56.10:939][  0]LogMemory: Process Physical Memory: 133.06 MB used, 133.06 MB peak
+[2020.12.05-07.56.10:939][  0]LogMemory: Process Virtual Memory: 120.48 MB used, 120.48 MB peak
+[2020.12.05-07.56.10:939][  0]LogMemory: Physical Memory: 5530.14 MB used,  10696.48 MB free, 16226.61 MB total
+[2020.12.05-07.56.10:939][  0]LogMemory: Virtual Memory: 134207168.00 MB used,  10561.93 MB free, 134217728.00 MB total
+[2020.12.05-07.56.10:969][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.05-07.56.10:991][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.05-07.56.10:991][  0]LogInit: Using OS detected language (en-US).
+[2020.12.05-07.56.10:991][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.05-07.56.10:992][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.05-07.56.11:147][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.05-07.56.11:157][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.05-07.56.11:171][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.05-07.56.11:171][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.05-07.56.11:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.05-07.56.11:309][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.05-07.56.11:309][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.05-07.56.11:309][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.05-07.56.11:387][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.12.05-07.56.11:387][  0]LogD3D11RHI:       8031/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.05-07.56.11:399][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.05-07.56.11:399][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.05-07.56.11:401][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.05-07.56.11:401][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.05-07.56.11:401][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.05-07.56.11:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.05-07.56.11:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.05-07.56.11:439][  0]LogWindows: EnumDisplayDevices:
+[2020.12.05-07.56.11:439][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.05-07.56.11:439][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.05-07.56.11:440][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.05-07.56.11:440][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.56.11:440][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.56.11:440][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.56.11:440][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.05-07.56.11:441][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.05-07.56.11:441][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.12.05-07.56.11:441][  0]LogD3D11RHI:   Driver Version: 431.23 (internal:26.21.14.3123, unified:431.23)
+[2020.12.05-07.56.11:441][  0]LogD3D11RHI:      Driver Date: 6-24-2019
+[2020.12.05-07.56.11:441][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.12.05-07.56.11:495][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.05-07.56.11:495][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.05-07.56.11:495][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.05-07.56.11:509][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.05-07.56.11:510][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.05-07.56.11:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.05-07.56.11:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.05-07.56.11:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.05-07.56.11:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.05-07.56.11:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.05-07.56.11:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.05-07.56.11:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.05-07.56.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.05-07.56.11:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.05-07.56.11:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.05-07.56.11:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.05-07.56.11:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.05-07.56.11:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.05-07.56.11:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.05-07.56.11:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.05-07.56.11:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.05-07.56.11:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.05-07.56.11:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.05-07.56.11:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.05-07.56.11:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.05-07.56.11:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.05-07.56.11:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.05-07.56.11:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.05-07.56.11:965][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.05-07.56.11:970][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.05-07.56.12:014][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.05-07.56.12:014][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Intermediate/Shaders/WorkingDirectory/10324/).
+[2020.12.05-07.56.12:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Piyush Pandey/AppData/Local/Temp/UnrealShaderWorkingDir/72EB84B5446049C2D47EFDA80265BF31/'.
+[2020.12.05-07.56.12:014][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.05-07.56.12:014][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.05-07.56.12:706][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.05-07.56.12:757][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.05-07.56.12:758][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.05-07.56.12:758][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.05-07.56.12:758][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.05-07.56.12:758][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.05-07.56.12:758][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.05-07.56.12:768][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.05-07.56.12:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.05-07.56.12:768][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.05-07.56.12:805][  0]LogDerivedDataCache: Speed tests for C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2020.12.05-07.56.12:805][  0]LogDerivedDataCache: Display: Performance to C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1449.92MBs, RandomWriteSpeed=26.34MBs. Assigned SpeedClass 'Local'
+[2020.12.05-07.56.12:806][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.05-07.56.12:806][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.05-07.56.12:806][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.05-07.56.12:847][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.05-07.56.12:847][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.05-07.56.12:869][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.05-07.56.13:064][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.05-07.56.13:064][  0]LogInit: Active device profile: [000002E96BC4E000][000002E969A3A840 49] Windows
+[2020.12.05-07.56.13:064][  0]LogInit: Profiles: [000002E96BC4E000][000002E969A3A840 49] Windows, [000002E96BBD4B00][000002E969A429C0 49] WindowsNoEditor, [000002E96BC4CA00][000002E969A46B40 49] WindowsServer, [000002E96BBD5F00][000002E969A4ACC0 49] WindowsClient, [000002E96BBF3E00][000002E969A4EE40 49] IOS, [000002E96BC4CB00][000002E969A6AFC0 49] iPadAir, [000002E96BBD5E00][000002E969A6F140 49] iPadAir2, [000002E96BB85B00][000002E969A77400 49] IPadPro, [000002E96BB85C00][000002E969A73440 49] iPadAir3, [000002E96BBD4100][000002E969A3F580 49] iPadAir4, [000002E96BB86000][000002E969A9B6C0 49] iPadMini2, [000002E96BBD6800][000002E969A9F800 49] iPadMini3, [000002E96BB85F00][000002E969AA3940 49] iPadMini4, [000002E96BBD7500][000002E969AABAC0 49] iPadMini5, [000002E96BBF0500][000002E969AB20C0 49] iPhone6, [000002E96BBF0400][000002E969AAE100 49] iPodTouch6, [000002E96BB84D00][000002E969ABA3C0 49] iPhone7, [000002E96BB86F00][000002E969AB6400 49] iPodTouch7, [000002E96BBF0300][000002E969AEA580 49] iPhone5S, [000002E96BB85200][000002E969AEE700 49] iPhone6Plus, [000002E96BBF1B00][000002E969AF2880 49] iPhone6S, [000002E96BB87600][000002E969AF6A00 49] iPhone6SPlus, [000002E96BBF0200][000002E969AFAB80 49] iPhone7Plus, [000002E96BB85E00][000002E969AFED00 49] iPhoneSE, [000002E96BBF3900][000002E969B02E80 49] iPhone8, [000002E96BB87B00][000002E969B07000 49] iPhone8Plus, [000002E96BBF2300][000002E969B0B180 49] iPhoneX, [000002E96BB86A00][000002E969B0F300 49] iPhoneXS, [000002E96BBF0700][000002E969B13480 49] iPhoneXSMax, [000002E96BB85000][000002E969AA75C0 49] iPhoneXR, [000002E96BBF2400][000002E969B17700 49] iPhone11, [000002E96BB84800][000002E969B1B840 49] iPhone11Pro, [000002E96BBF3800][000002E969B1F980 49] iPhone11ProMax, [000002E96BB87C00][000002E969B27B00 49] iPhoneSE2, [000002E96BBF1600][000002E969B2BC80 49] iPhone12Mini, [000002E96BB84C00][000002E969B2E140 49] iPhone12, [000002E96BBF2500][000002E969B322C0 49] iPhone12Pro, [000002E96BB87400][000002E969B36440 49] iPhone12ProMax, [000002E96BBF2600][000002E969B3A5C0 49] iPadPro105, [000002E96BC4C200][000002E969B3E740 49] iPadPro129, [000002E96BBF0900][000002E969B428C0 49] iPadPro97, [000002E96BC4D700][000002E969B46A40 49] iPadPro2_129, [000002E96BBF0B00][000002E969B4ABC0 49] iPad5, [000002E96BC4C500][000002E969340D40 49] iPad6, [000002E96BBF0F00][000002E969344EC0 49] iPad7, [000002E96BC4D400][000002E969349040 49] iPad8, [000002E96BBF2A00][000002E96934D1C0 49] iPadPro11, [000002E96BC4DA00][000002E969351340 49] iPadPro2_11, [000002E96BBF2900][000002E9693554C0 49] iPadPro3_129, [000002E96BC4D900][000002E969359640 49] iPadPro4_129, [000002E96BBF3200][000002E969B23780 49] AppleTV, [000002E96BC4D500][000002E96935D8C0 49] AppleTV4K, [000002E96BBF0E00][000002E969361A00 49] TVOS, [000002E96BC4C300][000002E969369B80 49] Mac, [000002E96BBF3B00][000002E96936DD00 49] MacClient, [000002E96BC4DE00][000002E9693701C0 49] MacNoEditor, [000002E96BBF0600][000002E969374340 49] MacServer, [000002E96BC4CF00][000002E9693784C0 49] Linux, [000002E96BBF2E00][000002E96937C640 49] LinuxNoEditor, [000002E96BC4CE00][000002E9693807C0 49] LinuxAArch64NoEditor, [000002E96BBF0100][000002E969384940 49] LinuxClient, [000002E96BC4E400][000002E969388AC0 49] LinuxAArch64Client, [000002E96BBF2000][000002E96938CC40 49] LinuxServer, [000002E96BC4DD00][000002E969390DC0 49] LinuxAArch64Server, [000002E96BBF2200][000002E969394F40 49] Android, [000002E96BC4C400][000002E9693990C0 49] Android_Low, [000002E96BBF1300][000002E96939D240 49] Android_Mid, [000002E96BC4D200][000002E9693A13C0 49] Android_High, [000002E96BBF1F00][000002E9693A5540 49] Android_Default, [000002E96BC4C800][000002E9693A96C0 49] Android_Adreno4xx, [000002E96BBD7D00][000002E969365800 49] Android_Adreno5xx_Low, [000002E96BB85900][000002E9693AD940 49] Android_Adreno5xx, [000002E96BBD4900][000002E9693B1A80 49] Android_Adreno6xx, [000002E96BB85700][000002E9693B9C00 49] Android_Adreno6xx_Vulkan, [000002E96BBD5D00][000002E9693BC0C0 49] Android_Mali_T6xx, [000002E96BB85D00][000002E9693C0240 49] Android_Mali_T7xx, [000002E96BBD4C00][000002E9693C43C0 49] Android_Mali_T8xx, [000002E96BB84A00][000002E9693C8540 49] Android_Mali_G71, [000002E96BBD6D00][000002E9693CC6C0 49] Android_Mali_G72, [000002E96BB85500][000002E9693D0840 49] Android_Mali_G72_Vulkan, [000002E96BBD5C00][000002E9693D49C0 49] Android_Mali_G76, [000002E96BB84300][000002E9693D8B40 49] Android_Mali_G76_Vulkan, [000002E96BBD4E00][000002E9693DCCC0 49] Android_Mali_G77, [000002E96BB87E00][000002E9693E0E40 49] Android_Mali_G77_Vulkan, [000002E96BBD7400][000002E9693E4FC0 49] Android_Vulkan_SM5, [000002E96BB86300][000002E9693E9140 49] Android_PowerVR_G6xxx, [000002E96BBD5800][000002E9693ED2C0 49] Android_PowerVR_GT7xxx, [000002E96BB86900][000002E9693F1440 49] Android_PowerVR_GE8xxx, [000002E96BBD6F00][000002E9693F55C0 49] Android_PowerVR_GM9xxx, [000002E96BB84E00][000002E9693F9740 49] Android_PowerVR_GM9xxx_Vulkan, [000002E96BBD7300][000002E9693B5880 49] Android_TegraK1, [000002E96BB86C00][000002E9693FD9C0 49] Android_Unknown_Vulkan, [000002E96BBD5B00][000002E969401B00 49] Lumin, [000002E96BB85600][000002E969405C40 49] Lumin_Desktop, [000002E96BBD4500][000002E96940C100 49] HoloLens, 
+[2020.12.05-07.56.13:096][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.05-07.56.13:096][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.05-07.56.13:096][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.05-07.56.13:096][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.05-07.56.13:096][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.05-07.56.13:175][  0]LogNetVersion: BattleTank 1.0.0, NetCL: 14685802, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4204264390)
+[2020.12.05-07.56.13:554][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.05-07.56.13:600][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.045760 seconds
+[2020.12.05-07.56.13:605][  0]LogUObjectArray: 16822 objects as part of root set at end of initial load.
+[2020.12.05-07.56.13:605][  0]LogUObjectAllocator: 4207504 out of 0 bytes used by permanent object pool.
+[2020.12.05-07.56.13:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.05-07.56.13:920][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.05-07.56.13:926][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.05-07.56.13:991][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.13:991][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.13:997][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.13:999][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.14:008][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.14:012][  0]LogUProjectInfo: Found projects:
+[2020.12.05-07.56.14:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.05-07.56.14:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.05-07.56.14:201][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.05-07.56.14:237][  0]LogCollectionManager: Loaded 0 collections in 0.000761 seconds
+[2020.12.05-07.56.14:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Saved/Collections/' took 0.00s
+[2020.12.05-07.56.14:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Developers/PiyushPandey/Collections/' took 0.00s
+[2020.12.05-07.56.14:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Collections/' took 0.00s
+[2020.12.05-07.56.14:253][  0]LogOcInput: OculusInput pre-init called
+[2020.12.05-07.56.14:262][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.05-07.56.14:262][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.05-07.56.14:302][  0]LogEngine: Initializing Engine...
+[2020.12.05-07.56.14:302][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.05-07.56.14:302][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.05-07.56.14:303][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.05-07.56.14:408][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.05-07.56.14:415][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.05-07.56.14:429][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.05-07.56.14:432][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.05-07.56.14:432][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-07.56.14:433][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-07.56.14:433][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-07.56.14:433][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-07.56.14:513][  0]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-07.56.14:671][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.05-07.56.14:677][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-07.56.14:678][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-07.56.14:678][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-07.56.14:679][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-07.56.14:679][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.05-07.56.14:679][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.05-07.56.14:680][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.05-07.56.14:680][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.05-07.56.14:680][  0]LogInit: FAudioDevice initialized.
+[2020.12.05-07.56.14:680][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.05-07.56.14:680][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.05-07.56.14:734][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Piyush Pandey/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.05-07.56.14:739][  0]LogInit: Texture streaming: Enabled
+[2020.12.05-07.56.14:748][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14685802+++UE4+Release-4.26
+[2020.12.05-07.56.14:751][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.05-07.56.14:751][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.05-07.56.14:753][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.05-07.56.14:766][  0]LogInit: Transaction tracking system initialized
+[2020.12.05-07.56.14:782][  0]BlueprintLog: New page: Editor Load
+[2020.12.05-07.56.14:831][  0]LocalizationService: Localization service is disabled
+[2020.12.05-07.56.14:848][  0]TimingProfiler: Initialize
+[2020.12.05-07.56.14:848][  0]TimingProfiler: OnSessionChanged
+[2020.12.05-07.56.14:849][  0]LoadingProfiler: Initialize
+[2020.12.05-07.56.14:849][  0]LoadingProfiler: OnSessionChanged
+[2020.12.05-07.56.14:849][  0]NetworkingProfiler: Initialize
+[2020.12.05-07.56.14:849][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.05-07.56.14:849][  0]MemoryProfiler: Initialize
+[2020.12.05-07.56.14:849][  0]MemoryProfiler: OnSessionChanged
+[2020.12.05-07.56.14:957][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.05-07.56.14:957][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.05-07.56.15:070][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/' took 0.00s
+[2020.12.05-07.56.15:249][  0]SourceControl: Source control is disabled
+[2020.12.05-07.56.15:249][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.968
+[2020.12.05-07.56.15:249][  0]Cmd: MAP LOAD FILE="C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.05-07.56.15:249][  0]LightingResults: New page: Lighting Build
+[2020.12.05-07.56.15:250][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-07.56.15:250][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-07.56.15:250][  0]MapCheck: New page: Map Check
+[2020.12.05-07.56.15:250][  0]LightingResults: New page: Lighting Build
+[2020.12.05-07.56.15:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.05-07.56.15:268][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2020.12.05-07.56.15:268][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.05-07.56.15:269][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.05-07.56.15:274][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.05-07.56.15:274][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.05-07.56.15:275][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.12.05-07.56.15:275][  0]LogFileHelpers: Loading map 'MainMenu' took 0.026
+[2020.12.05-07.56.15:277][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.996
+[2020.12.05-07.56.15:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.56.15:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.56.15:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.56.15:403][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-07.56.15:519][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3607 classes and 862 folders.
+[2020.12.05-07.56.15:547][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.56.15:578][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.56.15:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.56.15:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2020.12.05-07.56.15:589][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.05-07.56.15:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.05-07.56.15:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2020.12.05-07.56.15:599][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.05-07.56.15:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.05-07.56.15:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2020.12.05-07.56.15:609][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.56.15:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.56.15:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.05-07.56.15:622][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.05-07.56.15:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.05-07.56.15:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.05-07.56.15:634][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.05-07.56.15:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.05-07.56.15:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2020.12.05-07.56.15:640][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.05-07.56.15:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.05-07.56.15:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2020.12.05-07.56.15:662][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.05-07.56.15:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.05-07.56.15:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2020.12.05-07.56.15:676][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.56.15:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.56.15:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2020.12.05-07.56.15:678][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.05-07.56.15:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.05-07.56.15:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2020.12.05-07.56.15:680][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.05-07.56.15:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.05-07.56.15:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2020.12.05-07.56.15:696][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.56.15:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.56.15:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2020.12.05-07.56.15:708][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.56.15:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.56.15:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2020.12.05-07.56.15:710][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.56.15:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.56.15:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2020.12.05-07.56.15:720][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.05-07.56.15:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.05-07.56.15:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2020.12.05-07.56.15:722][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.56.15:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.56.15:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2020.12.05-07.56.15:724][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.05-07.56.15:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.05-07.56.15:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2020.12.05-07.56.15:725][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.56.15:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.56.15:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2020.12.05-07.56.15:727][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.56.15:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.56.15:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2020.12.05-07.56.15:738][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.56.15:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.56.15:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2020.12.05-07.56.15:755][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.05-07.56.15:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.05-07.56.15:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2020.12.05-07.56.15:759][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.05-07.56.15:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.05-07.56.15:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2020.12.05-07.56.15:777][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.05-07.56.15:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.05-07.56.15:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2020.12.05-07.56.15:793][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.05-07.56.15:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.05-07.56.15:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2020.12.05-07.56.15:802][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.05-07.56.15:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.05-07.56.15:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2020.12.05-07.56.15:810][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.05-07.56.15:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.05-07.56.15:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.05-07.56.15:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2020.12.05-07.56.16:343][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.56.16:940][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.05-07.56.17:018][  0]LogSlate: Took 0.000805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.05-07.56.17:021][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.05-07.56.17:036][  0]LogSlate: Took 0.012845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.05-07.56.17:137][  0]LogRenderer: Reallocating scene render targets to support 932x492 Format 10 NumSamples 1 (Frame:1).
+[2020.12.05-07.56.17:232][  0]LogSlate: Took 0.036563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.05-07.56.17:278][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.05-07.56.17:278][  0]LogLoad: (Engine Initialization) Total time: 7.00 seconds
+[2020.12.05-07.56.17:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.05-07.56.17:279][  0]LogInit: First time updating LLM stats...
+[2020.12.05-07.56.17:446][  0]LogAssetRegistry: Asset discovery search completed in 4.5776 seconds
+[2020.12.05-07.56.17:447][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.05-07.56.17:469][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.05-07.56.18:299][ 96]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.05-07.59.12:754][601]LogLinker: Error: HOTRELOADED_TankBarrel_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset)
+[2020.12.05-07.59.12:756][601]LogLinker: Error: HOTRELOADED_TankBarrel_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset)
+[2020.12.05-07.59.12:757][601]LogLinker: Error: HOTRELOADED_TankBarrel_0 has an inappropriate outermost, it was probably saved with a deprecated outer (file: C:/Users/Piyush Pandey/Documents/Unreal Projects/TankBattle/BattleTank/Content/Blueprints/Tank_BP.uasset)
+[2020.12.05-07.59.12:860][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Tank_BP.Tank_BP
+[2020.12.05-07.59.13:051][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2020.12.05-07.59.13:850][601]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.05-07.59.13:890][602]LogSlate: Took 0.012131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.05-08.02.40:165][560]LogHotReload: New module detected: UE4Editor-BattleTank-0104.dll
+[2020.12.05-08.02.40:846][563]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.05-08.02.40:883][563]LogClass: Could not find existing class Tank in package /Script/BattleTank for HotReload, assuming new class
+[2020.12.05-08.02.40:883][563]LogClass: Function SetTankBarrelRef is new.
+[2020.12.05-08.02.40:892][563]LogHotReload: Re-instancing Tank after hot-reload.
+[2020.12.05-08.02.40:931][563]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleTank' in 0.0002 seconds. Added 6 classes and 3 folders.
+[2020.12.05-08.02.40:934][563]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.05-08.03.25:930][563]LogThreadingWindows: Error: Runnable thread PoolThread 38 crashed.
+[2020.12.05-08.03.25:930][563]LogWindows: Error: === Critical error: ===
+[2020.12.05-08.03.25:930][563]LogWindows: Error: 
+[2020.12.05-08.03.25:930][563]LogWindows: Error: Fatal error!
+[2020.12.05-08.03.25:930][563]LogWindows: Error: 
+[2020.12.05-08.03.25:930][563]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2020.12.05-08.03.25:930][563]LogWindows: Error: 
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb3776fa18 UE4Editor-CoreUObject.dll!FPropertyProxyArchive::operator<<() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject\PropertyProxyArchive.h:46]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb37881cf5 UE4Editor-CoreUObject.dll!UStruct::SerializeExpr() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptSerialization.h:223]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb378822c2 UE4Editor-CoreUObject.dll!UStruct::SerializeExpr() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptSerialization.h:315]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb3787cf9a UE4Editor-CoreUObject.dll!UStruct::Serialize() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:1944]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb3787c3ce UE4Editor-CoreUObject.dll!UFunction::Serialize() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:5601]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffadbeab9e0 UE4Editor-HotReload.dll!FAsyncTask<`FHotReloadModule::ReplaceReferencesToReconstructedCDOs'::`2'::FFindRefTask>::DoWork() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Async\AsyncWork.h:271]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffadbeab72e UE4Editor-HotReload.dll!FAsyncTask<`FHotReloadModule::ReplaceReferencesToReconstructedCDOs'::`2'::FFindRefTask>::DoThreadedWork() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Async\AsyncWork.h:296]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffaf60cc58f UE4Editor-Core.dll!FQueuedThread::Run() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\HAL\ThreadingBase.cpp:992]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffaf6527ceb UE4Editor-Core.dll!FRunnableThreadWin::Run() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:86]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffaf6520980 UE4Editor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:35]
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb5f6c7034 KERNEL32.DLL!UnknownFunction []
+[2020.12.05-08.03.25:930][563]LogWindows: Error: [Callstack] 0x00007ffb60fbcec1 ntdll.dll!UnknownFunction []
+[2020.12.05-08.03.25:930][563]LogWindows: Error: 
+[2020.12.05-08.03.25:930][563]LogWindows: Error: Crash in runnable thread PoolThread 38
+[2020.12.05-08.03.25:991][563]LogExit: Executing StaticShutdownAfterError
+[2020.12.05-08.03.25:991][563]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.12.05-08.03.25:991][563]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.12.05-08.03.26:012][563]Log file closed, 12/05/20 16:03:26
