@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:K:\UE4.25\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:K:\UE4\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -49,11 +49,11 @@
 "C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.gen.cpp.obj"
 "C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankPlayerController.gen.cpp.obj"
 "C:\Users\Piyush Pandey\Documents\Unreal Projects\TankBattle\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Default.rc2.res"
-"K:\UE4.25\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"K:\UE4.25\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
-"K:\UE4.25\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"K:\UE4.25\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"K:\UE4.25\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"K:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"K:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
+"K:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"K:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"K:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"

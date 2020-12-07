@@ -112,7 +112,7 @@ void EmptyLinkFunctionForGeneratedCodeTankBarrel() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UTankBarrel, 683616839);
+	IMPLEMENT_CLASS(UTankBarrel, 545119339);
 	template<> BATTLETANK_API UClass* StaticClass<UTankBarrel>()
 	{
 		return UTankBarrel::StaticClass();

@@ -1,4 +1,4 @@
-// PCH for K:\UE4.25\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateSharedPCH.h
+// PCH for K:\UE4\UE_4.26\Engine\Source\Runtime\Slate\Public\SlateSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -62,4 +62,4 @@
 #define WITH_UNREALJPEG 1
 #define WITH_UNREALEXR 1
 #define IMAGEWRAPPER_API DLLIMPORT
-#include "K:/UE4.25/UE_4.26/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h"
+#include "K:/UE4/UE_4.26/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h"

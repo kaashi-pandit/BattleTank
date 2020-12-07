@@ -12,16 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Engine/Classes/Kismet/GameplayStaticsTypes.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/AIModule/Private/AIController.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Editor/VREditor/VRScoutingInteractor.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/StaticMeshComponent.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Engine/Private/Actor.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Engine/Private/GameplayStatics.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Engine/Private/Collision/WorldCollision.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://K:/UE4.25/UE_4.26/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://K:/UE4/UE_4.26/Engine/Source/Runtime/Core/Public/Math/UnrealMathUtility.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -29,11 +20,11 @@
       <option value="$PROJECT_DIR$/Source/BattleTank/Private/TankPlayerController.cpp" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Public/TankAIController.h" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Private/TankAIController.cpp" />
-      <option value="$PROJECT_DIR$/Source/BattleTank/Private/TankAimingComponent.cpp" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Public/TankAimingComponent.h" />
-      <option value="$PROJECT_DIR$/Source/BattleTank/Public/TankBarrel.h" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Private/Tank.cpp" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Public/Tank.h" />
+      <option value="$PROJECT_DIR$/Source/BattleTank/Public/TankBarrel.h" />
+      <option value="$PROJECT_DIR$/Source/BattleTank/Private/TankAimingComponent.cpp" />
       <option value="$PROJECT_DIR$/Source/BattleTank/Private/TankBarrel.cpp" />
     </changedPaths>
   </component>
@@ -282,7 +273,11 @@
       <workItem from="1607142202859" duration="9903000" />
       <workItem from="1607154493155" duration="441000" />
       <workItem from="1607155060864" duration="943000" />
-      <workItem from="1607226261460" duration="2369000" />
+      <workItem from="1607226261460" duration="7584000" />
+      <workItem from="1607236142666" duration="554000" />
+      <workItem from="1607277270780" duration="1045000" />
+      <workItem from="1607278630045" duration="1070000" />
+      <workItem from="1607317439505" duration="2532000" />
     </task>
     <servers />
   </component>

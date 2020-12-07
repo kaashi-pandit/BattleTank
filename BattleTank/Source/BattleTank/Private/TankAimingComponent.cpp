@@ -20,10 +20,7 @@ void UTankAimingComponent::SetTankBarrelRef(UTankBarrel* BarrelToSet)
 // Called when the game starts
 void UTankAimingComponent::BeginPlay()
 {
-	Super::BeginPlay();
-
-	// ...
-	
+	Super::BeginPlay();	
 }
 
 
@@ -37,11 +34,11 @@ void UTankAimingComponent::TickComponent(float DeltaTime, ELevelTick TickType, F
 
 void UTankAimingComponent::MoveBarrelTowards(FVector AimDirection)
 {
-	auto BarrelRotator = Barrel->GetForwardVector().Rotation();
+	const auto BarrelRotator = Barrel->GetForwardVector().Rotation();
 	const auto AimAsRotator = AimDirection.Rotation();
-	auto DeltaRotator = AimAsRotator - BarrelRotator;
-	UE_LOG(LogTemp, Warning, TEXT("Aiming angle is : %s"), *AimAsRotator.ToString());
-	//Barrel->Elevate(7);
+	const auto DeltaRotator = AimAsRotator - BarrelRotator;
+	//UE_LOG(LogTemp, Warning, TEXT("Aiming angle is : %s"), *AimAsRotator.ToString());
+	Barrel->Elevate(DeltaRotator.Pitch);
 }
 
 void UTankAimingComponent::AimAt(FVector HitLocation, float LaunchSpeed)
@@ -62,7 +59,7 @@ void UTankAimingComponent::AimAt(FVector HitLocation, float LaunchSpeed)
 		false,
 		0,
 		0,
-		ESuggestProjVelocityTraceOption::TraceFullPath,
+		ESuggestProjVelocityTraceOption::DoNotTrace,
 		ResponseParam
 	);
 
@@ -77,6 +74,12 @@ void UTankAimingComponent::AimAt(FVector HitLocation, float LaunchSpeed)
 		const FVector AimDirection = OutLaunchVelocity.GetSafeNormal();
 		MoveBarrelTowards(AimDirection);
 		//UE_LOG(LogTemp, Warning, TEXT("Aiming at %s"), *AimDirection.ToString());
+		//UE_LOG(LogTemp, Warning, TEXT("Aim sol found"));
+	}
+	else
+	{
+		auto Time = GetWorld()->GetTimeSeconds();
+		//UE_LOG(LogTemp, Warning, TEXT("%f | No aim sol found"), Time);
 	}
 }
 

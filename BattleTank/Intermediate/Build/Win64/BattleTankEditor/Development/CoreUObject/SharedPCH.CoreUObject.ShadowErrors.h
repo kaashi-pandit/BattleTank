@@ -1,4 +1,4 @@
-// PCH for K:\UE4.25\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\CoreUObjectSharedPCH.h
+// PCH for K:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\CoreUObjectSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -51,4 +51,4 @@
 #define WITH_MALLOC_STOMP 1
 #define CORE_API DLLIMPORT
 #define TRACELOG_API DLLIMPORT
-#include "K:/UE4.25/UE_4.26/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"
+#include "K:/UE4/UE_4.26/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"
